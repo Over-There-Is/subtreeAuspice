@@ -2282,6 +2282,32 @@
 										}
 									},
 									{
+										"name": "Guangdong\/GDCDC_GZ_0157\/2023|EPI_ISL_17584642|2023-04-18",
+										"node_attrs": {
+											"div": 95,
+											"userOrOld": { "value": "uploaded sample" },
+											"date": { "value": "2023-04-18" },
+											"Nextstrain_clade": { "value": "22F" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "XBB.1.9.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"genbank_accession": { "value": "" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											},
+											"subtree": {
+												"value": "view subtree 440",
+												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice440_genome_3a56c_8f9160.json?f_userOrOld=uploaded%20sample"
+											}
+										}
+									},
+									{
 										"name": "Singapore\/R32MR75\/2023|EPI_ISL_17694888|2023-05-11",
 										"branch_attrs": {
 											"mutations": {
@@ -2335,32 +2361,6 @@
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"genbank_accession": { "value": "" },
 											"country": { "value": "Singapore" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-											},
-											"subtree": {
-												"value": "view subtree 444",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice444_genome_3a56c_8f9160.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
-									{
-										"name": "Guangdong\/GDCDC_GZ_0151\/2023|EPI_ISL_17584636|2023-04-18",
-										"node_attrs": {
-											"div": 95,
-											"userOrOld": { "value": "uploaded sample" },
-											"date": { "value": "2023-04-18" },
-											"Nextstrain_clade": { "value": "22F" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "XBB.1.9.1",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"genbank_accession": { "value": "" },
-											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
 												"value": "FL.2",
