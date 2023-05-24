@@ -2827,126 +2827,6 @@
 								}
 							},
 							{
-								"name": "node_6683283",
-								"branch_attrs": {
-									"labels": {
-										"id": "node_6683283",
-										"nuc mutations": "G12111A,G12160A,A22200G",
-										"back-mutations": "",
-										"aa mutations": "ORF1ab:S3949N,S:E213G",
-										"Spike mutations": "S:E213G"
-									},
-									"mutations": {
-										"ORF1ab": [ "S3949N" ],
-										"S": [ "E213G" ],
-										"nuc": [ "G12111A", "G12160A", "A22200G" ]
-									}
-								},
-								"children": [
-									{
-										"name": "Hubei\/HCDC-1001\/2023|EPI_ISL_17625388|2023-04-27",
-										"branch_attrs": {
-											"mutations": {
-												"ORF1ab": [ "R47K", "R5784K" ],
-												"ORF8": [ "L118V" ],
-												"nuc": [ "G405A", "C920T", "C8626T", "T15738C", "G17615A", "C23191T", "T28245G" ]
-											}
-										},
-										"node_attrs": {
-											"div": 104,
-											"userOrOld": { "value": "uploaded sample" },
-											"date": { "value": "2023-04-27" },
-											"Nextstrain_clade": { "value": "22F" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "FL.2",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"genbank_accession": { "value": "" },
-											"country": { "value": "China" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-											},
-											"subtree": {
-												"value": "view subtree 448",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice448_genome_3a56c_8f9160.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
-									{
-										"name": "Hubei\/HCDC-1003\/2023|EPI_ISL_17625389|2023-04-27",
-										"branch_attrs": {
-											"mutations": {
-												"S": [ "E183Q", "V252G" ],
-												"nuc": [ "G22109C", "T22317G" ]
-											}
-										},
-										"node_attrs": {
-											"div": 99,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-											},
-											"subtree": {
-												"value": "view subtree 52",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice52_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
-									{
-										"name": "Hubei\/HCDC-1002\/2023|EPI_ISL_17625384|2023-04-27",
-										"branch_attrs": {
-											"mutations": {
-												"S": [ "V252G" ],
-												"nuc": [ "T22317G", "C25803T" ]
-											}
-										},
-										"node_attrs": {
-											"div": 99,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-											},
-											"subtree": {
-												"value": "view subtree 52",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice52_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									}
-								],
-								"node_attrs": {
-									"div": 97,
-									"userOrOld": { "value": "uploaded sample" },
-									"Nextstrain_clade": { "value": "uploaded sample" },
-									"GISAID_clade": { "value": "uploaded sample" },
-									"pango_lineage": { "value": "uploaded sample" },
-									"Nextstrain_lineage": { "value": "uploaded sample" },
-									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.2" }
-								}
-							},
-							{
 								"name": "node_10178452",
 								"branch_attrs": {
 									"labels": {
@@ -3419,6 +3299,36 @@
 									"mutations": { "nuc": [ "C25803T" ] }
 								},
 								"children": [
+									{
+										"name": "Hubei\/HCDC-1002\/2023|EPI_ISL_17625384|2023-04-27",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "S3949N" ],
+												"S": [ "E183Q", "E213G", "V252G" ],
+												"nuc": [ "G12111A", "G12160A", "G22109C", "A22200G", "T22317G" ]
+											}
+										},
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											},
+											"subtree": {
+												"value": "view subtree 52",
+												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice52_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
+											}
+										}
+									},
 									{
 										"name": "Hubei\/HCDC-JM1250\/2023|EPI_ISL_17671938|2023-05-02",
 										"branch_attrs": {
@@ -4950,6 +4860,36 @@
 									}
 								},
 								"children": [
+									{
+										"name": "Hubei\/HCDC-1003\/2023|EPI_ISL_17625389|2023-04-27",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "S3949N" ],
+												"S": [ "E183Q", "E213G", "V252G" ],
+												"nuc": [ "G12111A", "G12160A", "G22109C", "A22200G", "T22317G" ]
+											}
+										},
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											},
+											"subtree": {
+												"value": "view subtree 52",
+												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice52_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
+											}
+										}
+									},
 									{
 										"name": "Guangdong\/GDCDC_FS_0040\/2023|EPI_ISL_17697785|2023-05-08",
 										"branch_attrs": {
