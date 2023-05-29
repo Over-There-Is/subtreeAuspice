@@ -7564,6 +7564,7 @@
 														"url": "uploaded sample"
 													},
 													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "Yunnan, China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
 														"value": "FL.2",
@@ -11530,6 +11531,32 @@
 											}
 										},
 										"children": [
+											{
+												"name": "Taiwan\/CDC-W26864\/2023|EPI_ISL_17720648|2023-05-13",
+												"branch_attrs": {
+													"mutations": {
+														"S": [ "N417K" ],
+														"nuc": [ "T22813G", "G29702A" ]
+													}
+												},
+												"node_attrs": {
+													"div": 98,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "Taiwan" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+													}
+												}
+											},
 											{
 												"name": "Guangdong\/GDCDC_GZ_0309\/2023|EPI_ISL_17698094|2023-05-03",
 												"node_attrs": {
