@@ -16350,9 +16350,9 @@
 														"branch_attrs": {
 															"labels": {
 																"id": "node_6959743",
-																"nuc mutations": "A6832G,A12390G,T25416C,C26111T,G26275A,G26428T,G26529A,C27259A,C27382G,T27383A,G28681T",
-																"back-mutations": "T25416C,G26275A,C27259A,C27382G,T27383A",
-																"aa mutations": "ORF1ab:N4042S,ORF3a:P240L,E:A11T,E:V62F,M:D3N,ORF6:L61D,N:E136D"
+																"nuc mutations": "A6832G,A12390G,T25416C,C26111T,G26275A,G26428T,G26529A,T26858C,C27259A,C27382G,T27383A,T27915G,G28681T",
+																"back-mutations": "T25416C,G26275A,T26858C,C27259A,C27382G,T27383A,T27915G",
+																"aa mutations": "ORF1ab:N4042S,ORF3a:P240L,E:A11T,E:V62F,M:D3N,ORF6:L61D,ORF8:*8G,N:E136D"
 															},
 															"mutations": {
 																"ORF1ab": [ "N4042S" ],
@@ -16360,8 +16360,9 @@
 																"E": [ "A11T", "V62F" ],
 																"M": [ "D3N" ],
 																"ORF6": [ "L61D" ],
+																"ORF8": [ "*8G" ],
 																"N": [ "E136D" ],
-																"nuc": [ "A6832G", "A12390G", "T25416C", "C26111T", "G26275A", "G26428T", "G26529A", "C27259A", "C27382G", "T27383A", "G28681T" ]
+																"nuc": [ "A6832G", "A12390G", "T25416C", "C26111T", "G26275A", "G26428T", "G26529A", "T26858C", "C27259A", "C27382G", "T27383A", "T27915G", "G28681T" ]
 															}
 														},
 														"children": [
@@ -16370,8 +16371,7 @@
 																"branch_attrs": {
 																	"mutations": {
 																		"ORF1ab": [ "S1640P" ],
-																		"ORF8": [ "*8G" ],
-																		"nuc": [ "T5183C", "T26858C", "T27915G" ]
+																		"nuc": [ "T5183C" ]
 																	}
 																},
 																"node_attrs": {
@@ -16401,21 +16401,18 @@
 																"branch_attrs": {
 																	"labels": {
 																		"id": "node_10186599",
-																		"nuc mutations": "T11824C,T26858C,C27384T,T27915G",
-																		"back-mutations": "T11824C,T26858C,C27384T,T27915G",
-																		"aa mutations": "ORF8:*8G"
+																		"nuc mutations": "C27384T",
+																		"back-mutations": "C27384T"
 																	},
 																	"mutations": {
-																		"ORF8": [ "*8G" ],
-																		"nuc": [ "T11824C", "T26858C", "C27384T", "T27915G" ]
+																		"nuc": [ "C27384T" ]
 																	}
 																},
 																"children": [
 																	{
 																		"name": "Australia\/NSW-ICPMR-45453\/2023|EPI_ISL_17561610|2023-04-14",
-																		"branch_attrs": { "mutations": { "nuc": [ "C11824T" ] } },
 																		"node_attrs": {
-																			"div": 115,
+																			"div": 113,
 																			"userOrOld": { "value": "uploaded sample" },
 																			"Nextstrain_clade": { "value": "uploaded sample" },
 																			"GISAID_clade": { "value": "uploaded sample" },
@@ -16438,6 +16435,7 @@
 																	},
 																	{
 																		"name": "Australia\/NSW-ICPMR-45452\/2023|EPI_ISL_17561609|2023-04-14",
+																		"branch_attrs": { "mutations": { "nuc": [ "T11824C" ] } },
 																		"node_attrs": {
 																			"div": 114,
 																			"userOrOld": { "value": "uploaded sample" },
@@ -16462,7 +16460,7 @@
 																	}
 																],
 																"node_attrs": {
-																	"div": 114,
+																	"div": 113,
 																	"userOrOld": { "value": "uploaded sample" },
 																	"Nextstrain_clade": { "value": "uploaded sample" },
 																	"GISAID_clade": { "value": "uploaded sample" },
