@@ -1121,7 +1121,7 @@
 								}
 							},
 							{
-								"name": "hCoV-19\/Sweden\/9476678076\/2023|EPI_ISL_17719296|2023-05-14",
+								"name": "Sweden\/9476678076\/2023|EPI_ISL_17719296|2023-05-14",
 								"branch_attrs": {
 									"mutations": {
 										"ORF1ab": [ "P2046S" ],
@@ -1139,6 +1139,33 @@
 									},
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"country": { "value": "Sweden" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+									}
+								}
+							},
+							{
+								"name": "Singapore\/R35MR165\/2023|EPI_ISL_17724808|2023-05-23",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "H4648Y" ],
+										"S": [ "V341I" ],
+										"nuc": [ "C14206T", "G22583A" ]
+									}
+								},
+								"node_attrs": {
+									"div": 96,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "Singapore" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
 										"value": "FL.2",
@@ -4142,6 +4169,26 @@
 										}
 									},
 									{
+										"name": "Singapore\/R34MR52\/2023|EPI_ISL_17724810|2023-05-19",
+										"node_attrs": {
+											"div": 95,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Singapore" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
 										"name": "Guangdong\/GDCDC_GZ_0151\/2023|EPI_ISL_17584636|2023-04-18",
 										"node_attrs": {
 											"div": 95,
@@ -6098,6 +6145,53 @@
 											},
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"country": { "value": "Hubei, China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
+										"name": "Singapore\/R34MR107\/2023|EPI_ISL_17724812|2023-05-19",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "R24C" ],
+												"S": [ "I68T" ],
+												"nuc": [ "C335T", "T21765C", "C28720T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 99,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Singapore" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
+										"name": "South_Korea\/KDCA237015\/2023|EPI_ISL_17723267|2023-05-02",
+										"node_attrs": {
+											"div": 96,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
 												"value": "FL.2",
@@ -10349,6 +10443,53 @@
 											},
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"country": { "value": "Zhejiang, China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
+										"name": "Singapore\/R34MR48\/2023|EPI_ISL_17724811|2023-05-19",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "P748L", "A3963V" ],
+												"S": [ "R190S" ],
+												"nuc": [ "C2508T", "C12153T", "G22132T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Singapore" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
+										"name": "Singapore\/R33MR178\/2023|EPI_ISL_17724809|2023-05-17",
+										"node_attrs": {
+											"div": 95,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Singapore" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
 												"value": "FL.2",
