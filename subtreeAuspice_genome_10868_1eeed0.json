@@ -2411,6 +2411,73 @@
                                                                             "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
                                                                         }
                                                                     }
+                                                                },
+                                                                {
+                                                                    "name": "node_10205474",
+                                                                    "branch_attrs": {
+                                                                        "labels": {
+                                                                            "id": "node_10205474",
+                                                                            "nuc mutations": "C2508T,T8053C,C12786T",
+                                                                            "back-mutations": "",
+                                                                            "aa mutations": "ORF1ab:P748L,ORF1ab:T4174I"
+                                                                        },
+                                                                        "mutations": {
+                                                                            "ORF1ab": [ "P748L", "T4174I" ],
+                                                                            "nuc": [ "C2508T", "T8053C", "C12786T" ]
+                                                                        }
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Shanghai\/SCDC-HG-0519-915\/2023|EPI_ISL_17725129|2023-05-17",
+                                                                            "node_attrs": {
+                                                                                "div": 104,
+                                                                                "userOrOld": { "value": "uploaded sample" },
+                                                                                "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                                "GISAID_clade": { "value": "uploaded sample" },
+                                                                                "pango_lineage": {
+                                                                                    "value": "uploaded sample",
+                                                                                    "url": "uploaded sample"
+                                                                                },
+                                                                                "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                                "country": { "value": "China" },
+                                                                                "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                                "pango_lineage_usher": {
+                                                                                    "value": "XBB.1.5",
+                                                                                    "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "name": "Shanghai\/SCDC-HG-0519-914\/2023|EPI_ISL_17725128|2023-05-17",
+                                                                            "node_attrs": {
+                                                                                "div": 104,
+                                                                                "userOrOld": { "value": "uploaded sample" },
+                                                                                "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                                "GISAID_clade": { "value": "uploaded sample" },
+                                                                                "pango_lineage": {
+                                                                                    "value": "uploaded sample",
+                                                                                    "url": "uploaded sample"
+                                                                                },
+                                                                                "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                                "country": { "value": "China" },
+                                                                                "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                                "pango_lineage_usher": {
+                                                                                    "value": "XBB.1.5",
+                                                                                    "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    "node_attrs": {
+                                                                        "div": 104,
+                                                                        "userOrOld": { "value": "uploaded sample" },
+                                                                        "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                        "GISAID_clade": { "value": "uploaded sample" },
+                                                                        "pango_lineage": { "value": "uploaded sample" },
+                                                                        "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                        "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                        "pango_lineage_usher": { "value": "XBB.1.5" }
+                                                                    }
                                                                 }
                                                             ],
                                                             "node_attrs": {
