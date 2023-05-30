@@ -1299,36 +1299,84 @@
 										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice2_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
 									}
 								}
-							},
+							},							
 							{
-								"name": "Guangdong\/GDCDC_GZ_0155\/2023|EPI_ISL_17584640|2023-04-18",
+								"name": "node_10205473",
 								"branch_attrs": {
+									"labels": {
+										"id": "node_10205473",
+										"nuc mutations": "C2536T,G9473A,A17759G",
+										"back-mutations": "",
+										"aa mutations": "ORF1ab:A3070T,ORF1ab:K5832R"
+									},
 									"mutations": {
 										"ORF1ab": [ "A3070T", "K5832R" ],
-										"S": [ "V252G" ],
-										"nuc": [ "C2536T", "G9473A", "A17759G", "T22317G" ]
+										"nuc": [ "C2536T", "G9473A", "A17759G" ]
 									}
 								},
-								"node_attrs": {
-									"div": 98,
-									"userOrOld": { "value": "uploaded sample" },
-									"Nextstrain_clade": { "value": "uploaded sample" },
-									"GISAID_clade": { "value": "uploaded sample" },
-									"pango_lineage": {
-										"value": "uploaded sample",
-										"url": "uploaded sample"
+								"children": [
+									{
+										"name": "USA\/CA-GBW-H20-294-5560\/2023|EPI_ISL_17716679|2023-05-16",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "E4388K" ],
+												"N": [ "K369T" ],
+												"nuc": [ "G13427A", "A29379C" ]
+											}
+										},
+										"node_attrs": {
+											"div": 99,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "USA" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
 									},
-									"Nextstrain_lineage": { "value": "uploaded sample" },
-									"country": { "value": "Guangzhou, Guangdong, China" },
-									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": {
-										"value": "FL.2",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
-									},
-									"subtree": {
-										"value": "view subtree 5",
-										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice5_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
+									{
+										"name": "Guangdong\/GDCDC_GZ_0155\/2023|EPI_ISL_17584640|2023-04-18",
+										"branch_attrs": {
+											"mutations": {
+												"S": [ "V252G" ],
+												"nuc": [ "T22317G" ]
+											}
+										},
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Guangzhou, Guangdong, China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											},
+											"subtree": {
+												"value": "view subtree 5",
+												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice5_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
+											}
+										}
 									}
+								],
+								"node_attrs": {
+									"div": 97,
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": { "value": "FL.2" }
 								}
 							},
 							{
