@@ -2430,6 +2430,27 @@
                                                                     }
                                                                 },
                                                                 {
+                                                                    "name": "USA\/OH-PLMI-HJC5G-19903\/2023|EPI_ISL_17744321|2023",
+                                                                    "branch_attrs": { "mutations": { "nuc": [ "C20196T" ] } },
+                                                                    "node_attrs": {
+                                                                        "div": 104,
+                                                                        "userOrOld": { "value": "uploaded sample" },
+                                                                        "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                        "GISAID_clade": { "value": "uploaded sample" },
+                                                                        "pango_lineage": {
+                                                                            "value": "uploaded sample",
+                                                                            "url": "uploaded sample"
+                                                                        },
+                                                                        "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                        "country": { "value": "USA" },
+                                                                        "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                        "pango_lineage_usher": {
+                                                                            "value": "XBB.1.5",
+                                                                            "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                {
                                                                     "name": "Guangdong\/GDCDC_SZ_0569\/2023|EPI_ISL_17698088|2023-05-04",
                                                                     "node_attrs": {
                                                                         "div": 103,
@@ -2537,6 +2558,94 @@
                                                                     ],
                                                                     "node_attrs": {
                                                                         "div": 106,
+                                                                        "userOrOld": { "value": "uploaded sample" },
+                                                                        "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                        "GISAID_clade": { "value": "uploaded sample" },
+                                                                        "pango_lineage": { "value": "uploaded sample" },
+                                                                        "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                        "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                        "pango_lineage_usher": { "value": "XBB.1.5" }
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "name": "node_10221654",
+                                                                    "branch_attrs": {
+                                                                        "labels": {
+                                                                            "id": "node_10221654",
+                                                                            "nuc mutations": "T22813G",
+                                                                            "back-mutations": "T22813G",
+                                                                            "aa mutations": "S:N417K",
+                                                                            "Spike mutations": "S:N417K"
+                                                                        },
+                                                                        "mutations": {
+                                                                            "S": [ "N417K" ],
+                                                                            "nuc": [ "T22813G" ]
+                                                                        }
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "USA\/OH-PLMI-HJC5G-19961\/2023|EPI_ISL_17744333|2023",
+                                                                            "node_attrs": {
+                                                                                "div": 104,
+                                                                                "userOrOld": { "value": "uploaded sample" },
+                                                                                "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                                "GISAID_clade": { "value": "uploaded sample" },
+                                                                                "pango_lineage": {
+                                                                                    "value": "uploaded sample",
+                                                                                    "url": "uploaded sample"
+                                                                                },
+                                                                                "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                                "country": { "value": "USA" },
+                                                                                "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                                "pango_lineage_usher": {
+                                                                                    "value": "XBB.1.5",
+                                                                                    "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "name": "USA\/OH-PLMI-HJC5G-19905\/2023|EPI_ISL_17744322|2023",
+                                                                            "node_attrs": {
+                                                                                "div": 104,
+                                                                                "userOrOld": { "value": "uploaded sample" },
+                                                                                "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                                "GISAID_clade": { "value": "uploaded sample" },
+                                                                                "pango_lineage": {
+                                                                                    "value": "uploaded sample",
+                                                                                    "url": "uploaded sample"
+                                                                                },
+                                                                                "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                                "country": { "value": "USA" },
+                                                                                "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                                "pango_lineage_usher": {
+                                                                                    "value": "XBB.1.5",
+                                                                                    "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "name": "USA\/OH-PLMI-HJC5G-19894\/2023|EPI_ISL_17744319|2023",
+                                                                            "node_attrs": {
+                                                                                "div": 104,
+                                                                                "userOrOld": { "value": "uploaded sample" },
+                                                                                "Nextstrain_clade": { "value": "uploaded sample" },
+                                                                                "GISAID_clade": { "value": "uploaded sample" },
+                                                                                "pango_lineage": {
+                                                                                    "value": "uploaded sample",
+                                                                                    "url": "uploaded sample"
+                                                                                },
+                                                                                "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                                                "country": { "value": "USA" },
+                                                                                "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                                                                                "pango_lineage_usher": {
+                                                                                    "value": "XBB.1.5",
+                                                                                    "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    "node_attrs": {
+                                                                        "div": 104,
                                                                         "userOrOld": { "value": "uploaded sample" },
                                                                         "Nextstrain_clade": { "value": "uploaded sample" },
                                                                         "GISAID_clade": { "value": "uploaded sample" },
