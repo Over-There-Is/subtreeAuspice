@@ -6435,6 +6435,32 @@
 										}
 									},
 									{
+										"name": "Guangdong\/GDCDC_JM_0093\/2023|EPI_ISL_17698171|2023-05-10",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "S505T" ],
+												"nuc": [ "T1778A", "T5644C" ]
+											}
+										},
+										"node_attrs": {
+											"div": 97,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Jiangmen, Guangdong, China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2"
+											}
+										}
+									},
+									{
 										"name": "Hubei\/HCDC-W1512\/2023|EPI_ISL_17684329|2023-05-09",
 										"node_attrs": {
 											"div": 95,
