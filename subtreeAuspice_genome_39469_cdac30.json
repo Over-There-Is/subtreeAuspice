@@ -13317,6 +13317,59 @@
 										}
 									},
 									{
+										"name": "Australia\/SA540411\/2023|EPI_ISL_17793465|2023-05-21",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "A668E" ],
+												"S": [ "S256L" ],
+												"nuc": [ "C2268A", "T19023C", "C22329T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Australia" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.3",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+											}
+										}
+									},
+									{
+										"name": "Australia\/SA540290\/2023|EPI_ISL_17793520|2023-05-19",
+										"branch_attrs": {
+											"mutations": {
+												"S": [ "A623V", "P812L" ],
+												"nuc": [ "C23430T", "C23997T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 97,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Australia" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.3",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+											}
+										}
+									},
+									{
 										"name": "Guangdong\/GDCDC_JY_0031\/2023|EPI_ISL_17697819|2023-05-08",
 										"node_attrs": {
 											"div": 95,
