@@ -2363,36 +2363,6 @@
 										},
 										"children": [
 											{
-												"name": "Sichuan\/ZGCDC-XGZG232\/2023|EPI_ISL_17718430|2023-05-14",
-												"branch_attrs": {
-													"mutations": {
-														"ORF1ab": [ "V823I", "K6464N" ],
-														"nuc": [ "G2732A", "T11647C", "G19656T" ]
-													}
-												},
-												"node_attrs": {
-													"div": 104,
-													"userOrOld": { "value": "uploaded sample" },
-													"Nextstrain_clade": { "value": "uploaded sample" },
-													"GISAID_clade": { "value": "uploaded sample" },
-													"pango_lineage": {
-														"value": "uploaded sample",
-														"url": "uploaded sample"
-													},
-													"Nextstrain_lineage": { "value": "uploaded sample" },
-													"country": { "value": "China" },
-													"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
-													"pango_lineage_usher": {
-														"value": "XBB.1.5",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
-													},
-													"subtree": {
-														"value": "view subtree 3",
-														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
-													}
-												}
-											},
-											{
 												"name": "Guangdong\/GDCDC_MZ_0063\/2023|EPI_ISL_17697653|2023-05-08",
 												"branch_attrs": { "mutations": { "nuc": [ "C8326T" ] } },
 												"node_attrs": {
@@ -2415,6 +2385,80 @@
 														"value": "view subtree 3",
 														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
 													}
+												}
+											},
+											{
+												"name": "node_10279150",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_10279150",
+														"nuc mutations": "T11647C",
+														"back-mutations": ""
+													},
+													"mutations": { "nuc": [ "T11647C" ] }
+												},
+												"children": [
+													{
+														"name": "Shanghai\/SCDC-HG0605-1715\/2023|EPI_ISL_17811083|2023-06-03",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "I648V" ],
+																"nuc": [ "A2207G", "C11200T", "C12952T", "T13674C" ]
+															}
+														},
+														"node_attrs": {
+															"div": 106,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "China" },
+															"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+															"pango_lineage_usher": {
+																"value": "XBB.1.5",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+															}
+														}
+													},
+													{
+														"name": "Sichuan\/ZGCDC-XGZG232\/2023|EPI_ISL_17718430|2023-05-14",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "V823I", "K6464N" ],
+																"nuc": [ "G2732A", "T11647C", "G19656T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 104,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "China" },
+															"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+															"pango_lineage_usher": {
+																"value": "XBB.1.5",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+															},
+															"subtree": {
+																"value": "view subtree 3",
+																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
+															}
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 102,
+													"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+													"pango_lineage_usher": { "value": "XBB.1.5" }
 												}
 											},
 											{
@@ -2648,6 +2692,26 @@
 													},
 													{
 														"name": "Fujian\/FCDC-QZ05S082\/2023|EPI_ISL_17801945|2023-05-22",
+														"node_attrs": {
+															"div": 102,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "China" },
+															"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+															"pango_lineage_usher": {
+																"value": "XBB.1.5",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+															}
+														}
+													},
+													{
+														"name": "Shanghai\/SCDC-HG0607-1790\/2023|EPI_ISL_17811134|2023-06-05",
 														"node_attrs": {
 															"div": 102,
 															"userOrOld": { "value": "uploaded sample" },
