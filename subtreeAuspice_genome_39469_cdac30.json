@@ -7823,6 +7823,32 @@
 								},
 								"children": [
 									{
+										"name": "Australia\/ACT11898\/2023|EPI_ISL_17813349|2023-05-20",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "L2077F" ],
+												"nuc": [ "C6494T", "C26028T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 97,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Australia" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.3",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+											}
+										}
+									},
+									{
 										"name": "Yunnan\/YNCDC-0517\/2023|EPI_ISL_17684038|2023-05-05",
 										"branch_attrs": { "mutations": { "nuc": [ "C1387T", "C10582T" ] } },
 										"node_attrs": {
