@@ -9369,6 +9369,34 @@
 														}
 													},
 													{
+														"name": "Taiwan\/CDC-W27954\/2023|EPI_ISL_17811716|2023-06-02",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "T4786M" ],
+																"S": [ "A688V" ],
+																"N": [ "A381S" ],
+																"nuc": [ "C10015T", "C14621T", "C23625T", "G29414T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 101,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Taiwan" },
+															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+															"pango_lineage_usher": {
+																"value": "FL.2.3",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+															}
+														}
+													},
+													{
 														"name": "Guangdong\/GDCDC_YF_0134\/2023|EPI_ISL_17697627|2023-05-08",
 														"node_attrs": {
 															"div": 97,
@@ -17723,64 +17751,10 @@
 										}
 									},
 									{
-										"name": "Fujian\/FCDC-SM05043\/2023|EPI_ISL_17801963|2023-05-11",
-										"branch_attrs": {
-											"mutations": {
-												"ORF1ab": [ "M1014I" ],
-												"S": [ "V642G" ],
-												"nuc": [ "C2102T", "G3307A", "T23487G" ]
-											}
-										},
-										"node_attrs": {
-											"div": 98,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "China" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2.3",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
-											}
-										}
-									},
-									{
 										"name": "Fujian\/FCDC-ND0382\/2023|EPI_ISL_17801922|2023-05-06",
 										"branch_attrs": { "mutations": { "nuc": [ "A13024G" ] } },
 										"node_attrs": {
 											"div": 96,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "China" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2.3",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
-											}
-										}
-									},
-									{
-										"name": "Fujian\/FCDC-SM05043\/2023|EPI_ISL_17801963|2023-05-11",
-										"branch_attrs": {
-											"mutations": {
-												"ORF1ab": [ "M1014I" ],
-												"S": [ "V642G" ],
-												"nuc": [ "C2102T", "G3307A", "T23487G" ]
-											}
-										},
-										"node_attrs": {
-											"div": 98,
 											"userOrOld": { "value": "uploaded sample" },
 											"Nextstrain_clade": { "value": "uploaded sample" },
 											"GISAID_clade": { "value": "uploaded sample" },
@@ -20757,6 +20731,32 @@
 											}
 										},
 										"children": [
+											{
+												"name": "Fujian\/FCDC-SM05043\/2023|EPI_ISL_17801963|2023-05-11",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "M1014I" ],
+														"nuc": [ "C2102T", "G3307A" ]
+													}
+												},
+												"node_attrs": {
+													"div": 98,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.2.3",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+													}
+												}
+											},
 											{
 												"name": "Taiwan\/CDC-W26864\/2023|EPI_ISL_17720648|2023-05-13",
 												"branch_attrs": {
