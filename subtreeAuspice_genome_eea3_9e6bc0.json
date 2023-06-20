@@ -829,6 +829,33 @@
                         }
                     },
                     {
+                        "name": "Hubei\/HCDC-WH2038\/2023|EPI_ISL_17817034|2023-06-13",
+                        "branch_attrs": {
+                            "mutations": {
+                                "S": [ "S408R", "K460N" ],
+                                "N": [ "R10Q" ],
+                                "nuc": [ "A436G", "G529A", "G17721T", "C22786A", "G22942T", "G28302A" ]
+                            }
+                        },
+                        "node_attrs": {
+                            "div": 102,
+                            "userOrOld": { "value": "uploaded sample" },
+                            "Nextstrain_clade": { "value": "uploaded sample" },
+                            "GISAID_clade": { "value": "uploaded sample" },
+                            "pango_lineage": {
+                                "value": "uploaded sample",
+                                "url": "uploaded sample"
+                            },
+                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                            "country": { "value": "China" },
+                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                            "pango_lineage_usher": {
+                                "value": "XBB.1.9.1",
+                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                            }
+                        }
+                    },
+                    {
                         "name": "Xinjiang\/XJCDC-CJ-043\/2023|EPI_ISL_17563563|2023-03-23",
                         "node_attrs": {
                             "div": 96,
