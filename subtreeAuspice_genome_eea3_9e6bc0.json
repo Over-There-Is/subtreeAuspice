@@ -198,32 +198,6 @@
                 },
                 "children": [
                     {
-                        "name": "Jiangxi\/JXNC-174\/2023|EPI_ISL_17794675|2023-05-02",
-                        "branch_attrs": {
-                            "mutations": {
-                                "ORF1ab": [ "V56I", "S100G", "D147G", "T170S", "A1824V", "M2873I", "K5784R" ],
-                                "nuc": [ "G431A", "A563G", "A574G", "A700G", "A705G", "T724A", "C774G", "T4579A","C5736T", "G8884A", "A17615G", "A22987C" ]
-                            }
-                        },
-                        "node_attrs": {
-                            "div": 108,
-                            "userOrOld": { "value": "uploaded sample" },
-                            "Nextstrain_clade": { "value": "uploaded sample" },
-                            "GISAID_clade": { "value": "uploaded sample" },
-                            "pango_lineage": {
-                                "value": "uploaded sample",
-                                "url": "uploaded sample"
-                            },
-                            "Nextstrain_lineage": { "value": "uploaded sample" },
-                            "country": { "value": "China" },
-                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-                            "pango_lineage_usher": {
-                                "value": "FL.2.3",
-                                "url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
-                            }
-                        }
-                    },
-                    {
                         "name": "Jiangxi\/JXFZ-091\/2023|EPI_ISL_17794293|2023-05-01",
                         "node_attrs": {
                             "div": 96,
@@ -1856,6 +1830,73 @@
                                 "value": "view subtree 36",
                                 "url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice36_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
                             }
+                        }
+                    },
+                    {
+                        "name": "node_10285736",
+                        "branch_attrs": {
+                            "mutations": {
+                                "ORF1ab": [ "M2873I" ],
+                                "nuc": [ "G8884A" ]
+                            }
+                        },
+                        "children": [
+                            {
+                                "name": "hCoV-19\/Jiangxi\/JXYT-038\/2023|EPI_ISL_17794976|2023-05-06",
+                                "branch_attrs": {
+                                    "mutations": {
+                                        "ORF1ab": [ "L3855F" ],
+                                        "nuc": [ "C4586T", "C6541T", "T10564A", "C10834T", "G11029T", "T12883C", "C17883T", "A23095G" ]
+                                    }
+                                },
+                                "node_attrs": {
+                                    "div": 105,
+                                    "userOrOld": { "value": "uploaded sample" },
+                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                    "GISAID_clade": { "value": "uploaded sample" },
+                                    "pango_lineage": {
+                                        "value": "uploaded sample",
+                                        "url": "uploaded sample"
+                                    },
+                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                    "pango_lineage_usher": {
+                                        "value": "XBB.1.9.1#196",
+                                        "url": "https:\/\/github.com\/sars-cov-2-variants\/lineage-proposals\/issues\/196"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Jiangxi\/JXNC-174\/2023|EPI_ISL_17794675|2023-05-02",
+                                "branch_attrs": {
+                                    "mutations": {
+                                        "ORF1ab": [ "V56I", "S100G", "D147G", "T170S", "A1824V", "K5784R" ],
+                                        "nuc": [ "G431A", "A563G", "A574G", "A700G", "A705G", "T724A", "C774G", "T4579A", "C5736T", "A17615G", "A22987C" ]
+                                    }
+                                },
+                                "node_attrs": {
+                                    "div": 108,
+                                    "userOrOld": { "value": "uploaded sample" },
+                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                    "GISAID_clade": { "value": "uploaded sample" },
+                                    "pango_lineage": {
+                                        "value": "uploaded sample",
+                                        "url": "uploaded sample"
+                                    },
+                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                    "country": { "value": "China" },
+                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                    "pango_lineage_usher": {
+                                        "value": "FL.2.3",
+                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+                                    }
+                                }
+                            }
+                        ],
+                        "node_attrs": {
+                            "div": 97,
+                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                            "pango_lineage_usher": { "value": "XBB.1.9.1" }
                         }
                     },
                     {
