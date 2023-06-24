@@ -3291,6 +3291,32 @@
                         },
                         "children": [
                             {
+                                "name": "Costa_Rica\/INC-11423-795817\/2023|EPI_ISL_17834307|2023-05-30",
+                                "branch_attrs": {
+                                    "mutations": {
+                                        "ORF1ab": [ "G2879S" ],
+                                        "nuc": [ "T3877C", "G8900A" ]
+                                    }
+                                },
+                                "node_attrs": {
+                                    "div": 99,
+                                    "userOrOld": { "value": "uploaded sample" },
+                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                    "GISAID_clade": { "value": "uploaded sample" },
+                                    "pango_lineage": {
+                                        "value": "uploaded sample",
+                                        "url": "uploaded sample"
+                                    },
+                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                    "country": { "value": "Costa Rica" },
+                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                    "pango_lineage_usher": {
+                                        "value": "XBB.1.9.1",
+                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                    }
+                                }
+                            },
+                            {
                                 "name": "Jiangxi\/JXNC-207\/2023|EPI_ISL_17794690|2023-05-05",
                                 "node_attrs": {
                                     "div": 97,
