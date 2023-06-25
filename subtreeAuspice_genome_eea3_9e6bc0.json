@@ -3754,6 +3754,32 @@
                                 }
                             },
                             {
+                                "name": "South_Korea\/KDCA243753\/2023|EPI_ISL_17835501|2023-05-31",
+                                "branch_attrs": {
+                                    "mutations": {
+                                        "ORF1ab": [ "A3730V" ],
+                                        "nuc": [ "C11454T" ]
+                                    }
+                                },
+                                "node_attrs": {
+                                    "div": 98,
+                                    "userOrOld": { "value": "uploaded sample" },
+                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                    "GISAID_clade": { "value": "uploaded sample" },
+                                    "pango_lineage": {
+                                        "value": "uploaded sample",
+                                        "url": "uploaded sample"
+                                    },
+                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                    "country": { "value": "South Korea" },
+                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                    "pango_lineage_usher": {
+                                        "value": "XBB.1.9.1",
+                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                    }
+                                }
+                            },
+                            {
                                 "name": "Liaoning\/LNCDC-115-1\/2023|EPI_ISL_17652379|2023-04-20",
                                 "node_attrs": {
                                     "div": 97,
