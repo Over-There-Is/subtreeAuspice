@@ -8,7 +8,9 @@
 
 [Subtree with XBB.1.9.1 + Orf1ab:K5784R + S:H146K samples](https://nextstrain.org/fetch/github.com/Over-There-Is/subtreeAuspice/raw/main/subtreeAuspice_genome_34807_8f95b0.json?label=id:node_6712845)
 
-[Subtree with XBB.1.9.1 + Orf1a:V1019F, I2873M samples](https://nextstrain.org/fetch/github.com/Over-There-Is/subtreeAuspice/raw/main/subtreeAuspice_genome_eea3_9e6bc0.json?label=id:node_6598032)
+[Subtree with FL.21 + Orf1a:V1019F, I2873M samples](https://nextstrain.org/fetch/github.com/Over-There-Is/subtreeAuspice/raw/main/subtreeAuspice_genome_eea3_9e6bc0.json?label=id:node_6598032)
+
+[Subtree with FL.21 samples](https://nextstrain.org/fetch/github.com/Over-There-Is/subtreeAuspice/raw/main/subtreeAuspice_genome_1644e_1aac30.json?label=id:node_6650084)
 
 [Subtree with XBL samples](https://nextstrain.org/fetch/github.com/Over-There-Is/subtreeAuspice/raw/main/subtreeAuspice_genome_2fbf9_ef0b70.json?label=id:node_6959633)
 
