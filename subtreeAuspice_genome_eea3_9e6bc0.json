@@ -3660,28 +3660,71 @@
 										}
 									},
 									{
-										"name": "Jiangxi\/JXJJ-126\/2023|EPI_ISL_17794550|2023-05-09",
-										"branch_attrs": { "mutations": { "nuc": [ "C18888T", "C20016T" ] } },
+										"name": "node_6650195",
+										"branch_attrs": {
+											"labels": {
+												"id": "node_6650195",
+												"nuc mutations": "C20016T",
+												"back-mutations": ""
+											},
+											"mutations": { "nuc": [ "C20016T" ] }
+										},
+										"children": [
+											{
+												"name": "Hubei\/HCDC-1212\/2023|EPI_ISL_17645501|2023-05-04",
+												"node_attrs": {
+													"div": 99,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+													}
+												}
+											},
+											{
+												"name": "Jiangxi\/JXJJ-126\/2023|EPI_ISL_17794550|2023-05-09",
+												"branch_attrs": { "mutations": { "nuc": [ "C18888T" ] } },
+												"node_attrs": {
+													"div": 100,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+													},
+													"subtree": {
+														"value": "view subtree 35",
+														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice35_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
+													}
+												}
+											}
+										],
 										"node_attrs": {
-											"div": 100,
+											"div": 99,
 											"userOrOld": { "value": "uploaded sample" },
 											"Nextstrain_clade": { "value": "uploaded sample" },
 											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
+											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-											},
-											"subtree": {
-												"value": "view subtree 35",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice35_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
-											}
+											"pango_lineage_usher": { "value": "FL.21" }
 										}
 									},
 									{
@@ -4296,17 +4339,17 @@
 						}
 					}
 				],
-						"node_attrs": {
-							"div": 96,
-							"userOrOld": { "value": "uploaded sample" },
-							"Nextstrain_clade": { "value": "uploaded sample" },
-							"GISAID_clade": { "value": "uploaded sample" },
-							"pango_lineage": { "value": "uploaded sample" },
-							"Nextstrain_lineage": { "value": "uploaded sample" },
-							"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-							"pango_lineage_usher": { "value": "FL.21" }
-						}
-					}
+				"node_attrs": {
+					"div": 96,
+					"userOrOld": { "value": "uploaded sample" },
+					"Nextstrain_clade": { "value": "uploaded sample" },
+					"GISAID_clade": { "value": "uploaded sample" },
+					"pango_lineage": { "value": "uploaded sample" },
+					"Nextstrain_lineage": { "value": "uploaded sample" },
+					"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+					"pango_lineage_usher": { "value": "FL.21" }
+				}
+			}
 		],
 		"node_attrs": { "div": 0 }
 	}
