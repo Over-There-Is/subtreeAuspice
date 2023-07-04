@@ -18930,31 +18930,6 @@
 										}
 									},
 									{
-										"name": "France\/OCC-HCL723000690001\/2023|EPI_ISL_17673622|2023-05-02",
-										"branch_attrs": { "mutations": { "nuc": [ "T23371C" ] } },
-										"node_attrs": {
-											"div": 96,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "France" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.2.3",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
-											},
-											"subtree": {
-												"value": "view subtree 120",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice120_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
-									{
 										"name": "Hubei\/HCDC-JM1254\/2023|EPI_ISL_17671928|2023-05-04",
 										"branch_attrs": {
 											"mutations": {
@@ -22305,6 +22280,75 @@
 												"value": "view subtree 49",
 												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice49_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
 											}
+										}
+									},
+									{
+										"name": "node_10491981",
+										"branch_attrs": {
+											"labels": {
+												"id": "node_10491981",
+												"nuc mutations": "T23371C",
+												"back-mutations": ""
+											},
+											"mutations": { "nuc": [ "T23371C" ] }
+										},
+										"children": [
+											{
+												"name": "France\/OCC-HCL723000828901\/2023|EPI_ISL_17958122|2023-06-05",
+												"branch_attrs": {
+													"mutations": {
+														"ORF3a": [ "G100S" ],
+														"ORF7a": [ "P34S" ],
+														"nuc": [ "C24130T", "G25690A", "C27493T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 99,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "France" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.2.3",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+													}
+												}
+											},
+											{
+												"name": "France\/OCC-HCL723000690001\/2023|EPI_ISL_17673622|2023-05-02",
+												"node_attrs": {
+													"div": 96,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "France" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.2.3",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+													},
+													"subtree": {
+														"value": "view subtree 120",
+														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice120_genome_39469_cdac30.json?f_userOrOld=uploaded%20sample"
+													}
+												}
+											}
+										],
+										"node_attrs": {
+											"div": 96,
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": { "value": "FL.2.3" }
 										}
 									},
 									{
