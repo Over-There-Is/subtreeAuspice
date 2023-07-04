@@ -2140,29 +2140,65 @@
 														}
 													},
 													{
-														"name": "Singapore\/R40MR82\/2023|EPI_ISL_17815754|2023-06-08",
+														"name": "node_10491982",
 														"branch_attrs": {
+															"labels": {
+																"id": "node_10491982",
+																"nuc mutations": "G596A,A12502G",
+																"back-mutations": "",
+																"aa mutations": "ORF1ab:V111M"
+															},
 															"mutations": {
 																"ORF1ab": [ "V111M" ],
 																"nuc": [ "G596A", "A12502G" ]
 															}
 														},
+														"children": [
+															{
+																"name": "Singapore\/R45MR16\/2023|EPI_ISL_17957336|2023-06-26",
+																"node_attrs": {
+																	"div": 102,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Singapore" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
+															},
+															{
+																"name": "Singapore\/R40MR82\/2023|EPI_ISL_17815754|2023-06-08",
+																"node_attrs": {
+																	"div": 102,
+																	"userOrOld": { "value": "GISAID and\/or public" },
+																	"date": { "value": "2023-06-08" },
+																	"Nextstrain_clade": { "value": "22F" },
+																	"pango_lineage": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	},
+																	"genbank_accession": { "value": "" },
+																	"country": { "value": "Singapore" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
+															}
+														],
 														"node_attrs": {
 															"div": 102,
-															"userOrOld": { "value": "GISAID and\/or public" },
-															"date": { "value": "2023-06-08" },
-															"Nextstrain_clade": { "value": "22F" },
-															"pango_lineage": {
-																"value": "GW.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
-															},
-															"genbank_accession": { "value": "" },
-															"country": { "value": "Singapore" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": {
-																"value": "GW.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
-															}
+															"pango_lineage_usher": { "value": "GW.1" }
 														}
 													}
 												],
@@ -3190,6 +3226,32 @@
 													"mutations": {
 														"ORF1ab": [ "T1496I", "K4809N" ],
 														"nuc": [ "T1918C", "C4752T", "A14691C" ]
+													}
+												},
+												"node_attrs": {
+													"div": 102,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "GW.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+													}
+												}
+											},
+											{
+												"name": "Henan\/HBCDC-cx03\/2023|EPI_ISL_17956787|2023-06-04",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "S2193Y", "S3344F" ],
+														"nuc": [ "C6843A", "C10296T", "C14403T" ]
 													}
 												},
 												"node_attrs": {

@@ -8572,6 +8572,53 @@
 										}
 									},
 									{
+										"name": "Shanghai\/SCDC-XG06-9212\/2023|EPI_ISL_17957090|2023-06-17",
+										"branch_attrs": { "mutations": { "nuc": [ "A19182G", "T26843C", "A29700G" ] } },
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.21",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+											}
+										}
+									},
+									{
+										"name": "Shanghai\/SCDC-XG06-8941\/2023|EPI_ISL_17956942|2023-06-12",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "T346I" ],
+												"nuc": [ "C1302T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.21",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+											}
+										}
+									},
+									{
 										"name": "Jiangxi\/JXFZ-010\/2023|EPI_ISL_17794263|2023-04-25",
 										"node_attrs": {
 											"div": 97,
