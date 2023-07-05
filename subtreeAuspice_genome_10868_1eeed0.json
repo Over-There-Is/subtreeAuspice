@@ -1704,6 +1704,27 @@
 										}
 									},
 									{
+										"name": "Japan\/TKYF230053\/2023|EPI_ISL_17959985|2023-06-21",
+										"branch_attrs": { "mutations": { "nuc": [ "C5192T", "A11914G" ] } },
+										"node_attrs": {
+											"div": 102,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Japan" },
+											"Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "XBB.1.5",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+											}
+										}
+									},
+									{
 										"name": "USA\/FL-CDC-LC1037412\/2023|EPI_ISL_17543762|2023-04-13",
 										"branch_attrs": {
 											"mutations": {
