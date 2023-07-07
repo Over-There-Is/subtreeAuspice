@@ -1553,6 +1553,32 @@
 								}
 							},
 							{
+								"name": "USA\/NY-Wadsworth-23033541-01\/2023|EPI_ISL_17960235|2023-06-07",
+								"branch_attrs": {
+									"mutations": {
+										"S": [ "E554K" ],
+										"nuc": [ "G23222A" ]
+									}
+								},
+								"node_attrs": {
+									"div": 100,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "USA" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+									}
+								}
+							},
+							{
 								"name": "USA\/NY-CDC-LC1041121\/2023|EPI_ISL_17674285|2023-05-03",
 								"node_attrs": {
 									"div": 99,
