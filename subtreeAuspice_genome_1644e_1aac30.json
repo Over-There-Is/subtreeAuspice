@@ -1340,35 +1340,78 @@
 										}
 									},
 									{
-										"name": "England\/PHEC-YYE4OQZ\/2023|EPI_ISL_17786899|2023-05-30",
+										"name": "node_6663633",
 										"branch_attrs": {
+											"labels": {
+												"id": "node_6663633",
+												"nuc mutations": "A3503G,C22341T",
+												"back-mutations": "",
+												"aa mutations": "ORF1ab:N1080D,S:A260V",
+												"Spike mutations": "S:A260V"
+											},
 											"mutations": {
 												"ORF1ab": [ "N1080D" ],
 												"S": [ "A260V" ],
-												"M": [ "V143L" ],
-												"nuc": [ "A3503G", "C22341T", "G26949T" ]
+												"nuc": [ "A3503G", "C22341T" ]
 											}
 										},
-										"node_attrs": {
-											"div": 100,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
+										"children": [
+											{
+												"name": "England\/PHEC-YYE4OQZ\/2023|EPI_ISL_17786899|2023-05-30",
+												"branch_attrs": {
+													"mutations": {
+														"M": [ "V143L" ],
+														"nuc": [ "G26949T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 100,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "United Kingdom" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+													},
+													"subtree": {
+														"value": "view subtree 13",
+														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice13_genome_1644e_1aac30.json?f_userOrOld=uploaded%20sample"
+													}
+												}
 											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "United Kingdom" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-											},
-											"subtree": {
-												"value": "view subtree 13",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice13_genome_1644e_1aac30.json?f_userOrOld=uploaded%20sample"
+											{
+												"name": "England\/CLIMB-CM7YFYSI\/2023|EPI_ISL_17974998|2023-06-15",
+												"branch_attrs": { "mutations": { "nuc": [ "C222T", "C29509T" ] } },
+												"node_attrs": {
+													"div": 101,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "United Kingdom" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+													}
+												}
 											}
+										],
+										"node_attrs": {
+											"div": 99,
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": { "value": "FL.21" }
 										}
 									}
 								],
