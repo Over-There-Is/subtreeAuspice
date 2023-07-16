@@ -3858,33 +3858,6 @@
 												},
 												"children": [
 													{
-														"name": "South_Korea\/KDCA244114\/2023|EPI_ISL_17834810|2023-06-01",
-														"branch_attrs": {
-															"mutations": {
-																"ORF1ab": [ "T708I" ],
-																"S": [ "T323I" ],
-																"nuc": [ "C92T", "C2388T", "C22530T", "G22801T" ]
-															}
-														},
-														"node_attrs": {
-															"div": 104,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "South Korea" },
-															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": {
-																"value": "GW.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
-															}
-														}
-													},
-													{
 														"name": "Fujian\/FCDC-FZLG01966\/2023|EPI_ISL_17801780|2023-05-21",
 														"branch_attrs": {
 															"mutations": {
@@ -3960,6 +3933,71 @@
 																"value": "GW.1",
 																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
 															}
+														}
+													},
+													{
+														"name": "node_6602583",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_6602583",
+																"nuc mutations": "C2388T,C22530T,G22801T",
+																"back-mutations": "",
+																"aa mutations": "ORF1ab:T708I,S:T323I",
+																"Spike mutations": "S:T323I"
+															},
+															"mutations": {
+																"ORF1ab": [ "T708I" ],
+																"S": [ "T323I" ],
+																"nuc": [ "C92T", "C2388T", "C22530T", "G22801T" ]
+															}
+														},
+														"children": [
+															{
+																"name": "South_Korea\/KDCA244114\/2023|EPI_ISL_17834810|2023-06-01",
+																"node_attrs": {
+																	"div": 104,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "South Korea" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
+															},
+															{
+																"name": "South_Korea\/KDCA249530\/2023|EPI_ISL_17984312|2023-06-23",
+																"branch_attrs": { "mutations": { "nuc": [ "C22477A" ] } },
+																"node_attrs": {
+																	"div": 105,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "South Korea" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 104,
+															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+															"pango_lineage_usher": { "value": "GW.1" }
 														}
 													},
 													{
