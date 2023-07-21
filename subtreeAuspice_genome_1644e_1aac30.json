@@ -9408,7 +9408,7 @@
 										}
 									},
 									{
-										"name": "hCoV-19\/USA\/OR-OSPHL-08663\/2023|EPI_ISL_18008663|2023-06-13",
+										"name": "USA\/OR-OSPHL-08663\/2023|EPI_ISL_18008663|2023-06-13",
 										"branch_attrs": {
 											"mutations": {
 												"ORF1ab": [ "E939G" ],
@@ -9427,6 +9427,7 @@
 												"url": "uploaded sample"
 											},
 											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "USA" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
 												"value": "FL.21",
@@ -11149,7 +11150,7 @@
 												}
 											},
 											{
-												"name": "hCoV-19\/Beijing\/BJCDC-1488\/2023|EPI_ISL_18009757|2023-05-01",
+												"name": "Beijing\/BJCDC-1488\/2023|EPI_ISL_18009757|2023-05-01",
 												"branch_attrs": {
 													"mutations": {
 														"S": [ "R498Q" ],
@@ -11166,6 +11167,7 @@
 														"url": "uploaded sample"
 													},
 													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
 														"value": "FL.21",
