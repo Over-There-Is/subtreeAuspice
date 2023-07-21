@@ -1162,6 +1162,69 @@
                                         }
                                     },
                                     {
+                                        "name": "node_6722967",
+                                        "branch_attrs": {
+                                            "labels": {
+                                                "id": "node_6722967",
+                                                "nuc mutations": "C25046T",
+                                                "back-mutations": "",
+                                                "aa mutations": "S:P1162S",
+                                                "Spike mutations": "S:P1162S"
+                                            },
+                                            "mutations": {
+                                                "S": [ "P1162S" ],
+                                                "nuc": [ "C25046T" ]
+                                            }
+                                        },
+                                        "children": [
+                                            {
+                                                "name": "USA\/CA-CDPH-500116606\/2023|EPI_ISL_17997997|2023-05-29",
+                                                "node_attrs": {
+                                                    "div": 100,
+                                                    "userOrOld": { "value": "uploaded sample" },
+                                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                                    "GISAID_clade": { "value": "uploaded sample" },
+                                                    "pango_lineage": {
+                                                        "value": "uploaded sample",
+                                                        "url": "uploaded sample"
+                                                    },
+                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                    "country": { "value": "USA" },
+                                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                    "pango_lineage_usher": {
+                                                        "value": "XBB.1.9.1",
+                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "USA\/CA-CDPH-500116428\/2023|EPI_ISL_17997986|2023-05-24",
+                                                "node_attrs": {
+                                                    "div": 100,
+                                                    "userOrOld": { "value": "uploaded sample" },
+                                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                                    "GISAID_clade": { "value": "uploaded sample" },
+                                                    "pango_lineage": {
+                                                        "value": "uploaded sample",
+                                                        "url": "uploaded sample"
+                                                    },
+                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                    "country": { "value": "USA" },
+                                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                    "pango_lineage_usher": {
+                                                        "value": "XBB.1.9.1",
+                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "node_attrs": {
+                                            "div": 100,
+                                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                            "pango_lineage_usher": { "value": "XBB.1.9.1" }
+                                        }
+                                    },
+                                    {
                                         "name": "node_6712866",
                                         "branch_attrs": {
                                             "labels": {
@@ -1411,29 +1474,88 @@
                                                 }
                                             },
                                             {
-                                                "name": "USA\/CA-CDC-VSX-751\/2023|EPI_ISL_17847095|2023-05-19",
+                                                "name": "node_6722956",
                                                 "branch_attrs": {
-                                                    "mutations": {
-                                                        "ORF3a": [ "S74F" ],
-                                                        "nuc": [ "A7003G", "C25613T", "G27708T" ]
-                                                    }
-                                                },
-                                                "node_attrs": {
-                                                    "div": 103,
-                                                    "userOrOld": { "value": "uploaded sample" },
-                                                    "Nextstrain_clade": { "value": "uploaded sample" },
-                                                    "GISAID_clade": { "value": "uploaded sample" },
-                                                    "pango_lineage": {
-                                                        "value": "uploaded sample",
-                                                        "url": "uploaded sample"
+                                                    "labels": {
+                                                        "id": "node_6722956",
+                                                        "nuc mutations": "A7003G,G27708T",
+                                                        "back-mutations": ""
                                                     },
-                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
-                                                    "country": { "value": "USA" },
-                                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-                                                    "pango_lineage_usher": {
-                                                        "value": "XBB.1.9.1",
-                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                    "mutations": { "nuc": [ "A7003G", "G27708T" ] }
+                                                },
+                                                "children": [
+                                                    {
+                                                        "name": "USA\/CA-CDPH-500115825\/2023|EPI_ISL_17997794|2023-05-16",
+                                                        "node_attrs": {
+                                                            "div": 102,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "USA\/CA-CDC-VSX-751\/2023|EPI_ISL_17847095|2023-05-19",
+                                                        "branch_attrs": {
+                                                            "mutations": {
+                                                                "ORF3a": [ "S74F" ],
+                                                                "nuc": [ "C25613T" ]
+                                                            }
+                                                        },
+                                                        "node_attrs": {
+                                                            "div": 103,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "USA\/CA-CDPH-500115859\/2023|EPI_ISL_17997694|2023-05-20",
+                                                        "branch_attrs": { "mutations": { "nuc": [ "T22138C" ] } },
+                                                        "node_attrs": {
+                                                            "div": 103,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
                                                     }
+                                                ],
+                                                "node_attrs": {
+                                                    "div": 102,
+                                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                    "pango_lineage_usher": { "value": "XBB.1.9.1" }
                                                 }
                                             },
                                             {
