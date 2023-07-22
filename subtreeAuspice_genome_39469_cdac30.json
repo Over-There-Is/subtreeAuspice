@@ -23665,6 +23665,33 @@
 										}
 									},
 									{
+										"name": "Sichuan\/MSCDC-0714-5\/2023|EPI_ISL_18012383|2023-07-02",
+										"branch_attrs": {
+											"mutations": {
+												"S": [ "K478R" ],
+												"ORF7a": [ "A105V" ],
+												"nuc": [ "T11285C", "G12217A", "A22995G", "C27707T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 99,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.3",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+											}
+										}
+									},
+									{
 										"name": "Guangdong\/GDCDC_JY_0037\/2023|EPI_ISL_17697852|2023-05-08",
 										"node_attrs": {
 											"div": 95,
@@ -29218,6 +29245,32 @@
 													"mutations": {
 														"ORF1ab": [ "F3785L" ],
 														"nuc": [ "T6727C", "T11618C", "C29541T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 98,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.2.3",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+													}
+												}
+											},
+											{
+												"name": "Guizhou\/GZCDC-ZY-07-4\/2023|EPI_ISL_18012353|2023-07-09",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "V879I" ],
+														"nuc": [ "G2900A", "C23185T" ]
 													}
 												},
 												"node_attrs": {
