@@ -918,6 +918,32 @@
                         }
                     },
                     {
+                        "name": "Taiwan\/CDC-W27450\/2023|EPI_ISL_18014671|2023-05-25",
+                        "branch_attrs": {
+                            "mutations": {
+                                "S": [ "N417K" ],
+                                "nuc": [ "T21709C", "T22813G" ]
+                            }
+                        },
+                        "node_attrs": {
+                            "div": 98,
+                            "userOrOld": { "value": "uploaded sample" },
+                            "Nextstrain_clade": { "value": "uploaded sample" },
+                            "GISAID_clade": { "value": "uploaded sample" },
+                            "pango_lineage": {
+                                "value": "uploaded sample",
+                                "url": "uploaded sample"
+                            },
+                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                            "country": { "value": "Taiwan" },
+                            "Nextstrain_clade_usher": { "value": "23A (Omicron)" },
+                            "pango_lineage_usher": {
+                                "value": "XBB.1.5.15",
+                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5.15"
+                            }
+                        }
+                    },
+                    {
                         "name": "Hubei\/HCDC-0992\/2023|EPI_ISL_17625309|2023-04-26",
                         "node_attrs": {
                             "div": 96,
