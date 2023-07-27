@@ -431,37 +431,6 @@
 						}
 					},
 					{
-						"name": "South_Korea\/KDCA240906\/2023|EPI_ISL_17778901|2023-05-20",
-						"branch_attrs": {
-							"mutations": {
-								"ORF1ab": [ "P4486L" ],
-								"S": [ "P809L" ],
-								"nuc": [ "C13721T", "C23988T", "G26690A" ]
-							}
-						},
-						"node_attrs": {
-							"div": 96,
-							"userOrOld": { "value": "uploaded sample" },
-							"Nextstrain_clade": { "value": "uploaded sample" },
-							"GISAID_clade": { "value": "uploaded sample" },
-							"pango_lineage": {
-								"value": "uploaded sample",
-								"url": "uploaded sample"
-							},
-							"Nextstrain_lineage": { "value": "uploaded sample" },
-							"country": { "value": "South Korea" },
-							"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-							"pango_lineage_usher": {
-								"value": "FL.21",
-								"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-							},
-							"subtree": {
-								"value": "view subtree 11",
-								"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice11_genome_1644e_1aac30.json?f_userOrOld=uploaded%20sample"
-							}
-						}
-					},
-					{
 						"name": "Germany\/SN-RKI-I-1120156\/2023|EPI_ISL_17254669|2023-02-27",
 						"node_attrs": {
 							"div": 93,
@@ -537,6 +506,75 @@
 								"value": "view subtree 16",
 								"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice16_genome_1644e_1aac30.json?f_userOrOld=uploaded%20sample"
 							}
+						}
+					},
+					{
+						"name": "node_10621613",
+						"branch_attrs": {
+							"labels": {
+								"id": "node_10621613",
+								"nuc mutations": "C13721T,C23988T,G26690A",
+								"back-mutations": "",
+								"aa mutations": "ORF1ab:P4486L,S:P809L",
+								"Spike mutations": "S:P809L"
+							},
+							"mutations": {
+								"ORF1ab": [ "P4486L" ],
+								"S": [ "P809L" ],
+								"nuc": [ "C13721T", "C23988T", "G26690A" ]
+							}
+						},
+						"children": [
+							{
+								"name": "South_Korea\/KDCA251865\/2023|EPI_ISL_18031873|2023-07-02",
+								"branch_attrs": { "mutations": { "nuc": [ "C18657A" ] } },
+								"node_attrs": {
+									"div": 97,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "South Korea" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+									}
+								}
+							},
+							{
+								"name": "South_Korea\/KDCA240906\/2023|EPI_ISL_17778901|2023-05-20",
+								"node_attrs": {
+									"div": 96,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "South Korea" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+									},
+									"subtree": {
+										"value": "view subtree 11",
+										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice11_genome_1644e_1aac30.json?f_userOrOld=uploaded%20sample"
+									}
+								}
+							}
+						],
+						"node_attrs": {
+							"div": 96,
+							"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+							"pango_lineage_usher": { "value": "FL.21" }
 						}
 					},
 					{
@@ -3231,8 +3269,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3256,8 +3294,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3286,8 +3324,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3318,8 +3356,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 13",
@@ -3348,8 +3386,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 6",
@@ -3378,8 +3416,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3408,8 +3446,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3444,8 +3482,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -3474,8 +3512,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									}
@@ -3483,7 +3521,7 @@
 								"node_attrs": {
 									"div": 95,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -3508,8 +3546,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3533,8 +3571,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3564,8 +3602,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									}
 								}
 							},
@@ -3584,8 +3622,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3608,8 +3646,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3632,8 +3670,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3656,8 +3694,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3686,8 +3724,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3710,8 +3748,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3734,8 +3772,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3758,8 +3796,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3782,8 +3820,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3812,8 +3850,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									}
 								}
 							},
@@ -3832,8 +3870,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3856,8 +3894,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3880,8 +3918,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3904,8 +3942,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3928,8 +3966,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3952,8 +3990,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3976,8 +4014,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -4000,8 +4038,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									}
 								}
 							},
@@ -4026,8 +4064,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -4050,8 +4088,8 @@
 									"country": { "value": "South Korea" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -4092,8 +4130,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -4116,8 +4154,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 15",
@@ -4134,7 +4172,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4169,8 +4207,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 11",
@@ -4199,8 +4237,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -4217,7 +4255,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4258,8 +4296,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -4289,8 +4327,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 14",
@@ -4307,7 +4345,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4340,8 +4378,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4364,8 +4402,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4382,7 +4420,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4411,8 +4449,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4436,8 +4474,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4454,7 +4492,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4487,8 +4525,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4511,8 +4549,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4535,8 +4573,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4559,8 +4597,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4583,8 +4621,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4601,7 +4639,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4634,8 +4672,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4658,8 +4696,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4682,8 +4720,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4706,8 +4744,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -4726,8 +4764,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -4752,8 +4790,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -4772,8 +4810,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -4803,8 +4841,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 11",
@@ -4844,8 +4882,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 7",
@@ -4868,8 +4906,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											},
@@ -4894,8 +4932,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											}
@@ -4903,7 +4941,7 @@
 										"node_attrs": {
 											"div": 96,
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									}
 								],
@@ -4915,7 +4953,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -4955,8 +4993,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -4975,8 +5013,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5020,8 +5058,8 @@
 													"country": { "value": "USA" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 6",
@@ -5059,8 +5097,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -5083,8 +5121,8 @@
 															"country": { "value": "USA" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -5107,8 +5145,8 @@
 															"country": { "value": "USA" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 16",
@@ -5131,8 +5169,8 @@
 															"country": { "value": "USA" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -5155,8 +5193,8 @@
 															"country": { "value": "USA" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -5196,8 +5234,8 @@
 																	"Nextstrain_lineage": { "value": "uploaded sample" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 																	},
 																	"subtree": {
 																		"value": "view subtree 6",
@@ -5220,8 +5258,8 @@
 																	"Nextstrain_lineage": { "value": "uploaded sample" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 																	},
 																	"subtree": {
 																		"value": "view subtree 6",
@@ -5238,7 +5276,7 @@
 															"pango_lineage": { "value": "uploaded sample" },
 															"Nextstrain_lineage": { "value": "uploaded sample" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": { "value": "FL.21" }
+															"pango_lineage_usher": { "value": "FL.21.1" }
 														}
 													}
 												],
@@ -5250,7 +5288,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.1" }
 												}
 											}
 										],
@@ -5262,7 +5300,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									}
 								],
@@ -5274,7 +5312,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -5307,8 +5345,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5331,8 +5369,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5355,8 +5393,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5379,8 +5417,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5403,8 +5441,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5427,8 +5465,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5451,8 +5489,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5481,8 +5519,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -5511,8 +5549,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -5541,8 +5579,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -5571,8 +5609,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -5617,8 +5655,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											},
@@ -5637,8 +5675,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											}
@@ -5651,7 +5689,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									},
 									{
@@ -5686,8 +5724,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 14",
@@ -5710,8 +5748,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 6",
@@ -5728,7 +5766,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									}
 								],
@@ -5740,7 +5778,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							},
 							{
@@ -5780,8 +5818,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 6",
@@ -5804,8 +5842,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5828,8 +5866,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5852,8 +5890,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5882,8 +5920,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -5902,8 +5940,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5927,8 +5965,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5957,8 +5995,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											},
 											"subtree": {
 												"value": "view subtree 16",
@@ -5987,8 +6025,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -6013,8 +6051,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.1",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 											}
 										}
 									},
@@ -6051,8 +6089,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											},
@@ -6071,8 +6109,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											}
@@ -6085,7 +6123,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									},
 									{
@@ -6114,8 +6152,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 16",
@@ -6138,8 +6176,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 16",
@@ -6177,35 +6215,77 @@
 															"country": { "value": "Japan" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															}
 														}
 													},
 													{
-														"name": "Japan\/PG-546671\/2023|EPI_ISL_18006638|2023-07-04",
+														"name": "node_10621614",
 														"branch_attrs": {
+															"labels": {
+																"id": "node_10621614",
+																"nuc mutations": "T10102C,C28961T",
+																"back-mutations": "",
+																"aa mutations": "N:L230F"
+															},
 															"mutations": {
 																"N": [ "L230F" ],
 																"nuc": [ "T10102C", "C28961T" ]
 															}
 														},
+														"children": [
+															{
+																"name": "Japan\/PG-549032\/2023|EPI_ISL_18040361|2023-07-04",
+																"branch_attrs": {
+																	"mutations": {
+																		"S": [ "F371S" ],
+																		"nuc": [ "T22674C" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 100,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Japan" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																	}
+																}
+															},
+															{
+																"name": "Japan\/PG-546671\/2023|EPI_ISL_18006638|2023-07-04",
+																"node_attrs": {
+																	"div": 99,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Japan" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																	}
+																}
+															}
+														],
 														"node_attrs": {
 															"div": 99,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Japan" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-															}
+															"pango_lineage_usher": { "value": "FL.21.1" }
 														}
 													}
 												],
@@ -6217,7 +6297,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.1" }
 												}
 											}
 										],
@@ -6229,7 +6309,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									},
 									{
@@ -6264,8 +6344,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													}
 												}
 											},
@@ -6291,8 +6371,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 6",
@@ -6322,8 +6402,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.1",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 													},
 													"subtree": {
 														"value": "view subtree 14",
@@ -6340,7 +6420,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									},
 									{
@@ -6384,8 +6464,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 16",
@@ -6408,8 +6488,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 15",
@@ -6426,7 +6506,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.1" }
 												}
 											},
 											{
@@ -6456,8 +6536,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 12",
@@ -6486,8 +6566,35 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+															}
+														}
+													},
+													{
+														"name": "South_Korea\/KDCA-249612\/2023|EPI_ISL_18038785|2023-06-23",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "I842T" ],
+																"S": [ "F375S", "S408R" ],
+																"nuc": [ "T2790C", "C6310T", "T22686C", "C22786A" ]
+															}
+														},
+														"node_attrs": {
+															"div": 101,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "South Korea" },
+															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+															"pango_lineage_usher": {
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															}
 														}
 													},
@@ -6506,8 +6613,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -6530,8 +6637,8 @@
 															"country": { "value": "South Korea" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															},
 															"subtree": {
 																"value": "view subtree 6",
@@ -6548,7 +6655,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.1" }
 												}
 											}
 										],
@@ -6560,7 +6667,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.1" }
 										}
 									}
 								],
@@ -6572,7 +6679,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.1" }
 								}
 							}
 						],
@@ -6584,7 +6691,7 @@
 							"pango_lineage": { "value": "uploaded sample" },
 							"Nextstrain_lineage": { "value": "uploaded sample" },
 							"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-							"pango_lineage_usher": { "value": "FL.21" }
+							"pango_lineage_usher": { "value": "FL.21.1" }
 						}
 					},
 					{
@@ -6623,8 +6730,34 @@
 									"country": { "value": "Thailand" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_SZHG_1325\/2023|EPI_ISL_18035966|2023-05-24",
+								"branch_attrs": {
+									"mutations": {
+										"S": [ "I742V" ],
+										"nuc": [ "C2470A", "C8956T", "A23786G", "G29781T" ]
+									}
+								},
+								"node_attrs": {
+									"div": 100,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -6643,8 +6776,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -6673,8 +6806,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 6",
@@ -6697,8 +6830,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -6722,8 +6855,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 5",
@@ -6752,8 +6885,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 4",
@@ -6777,8 +6910,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 3",
@@ -6801,12 +6934,91 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
 										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice37_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_SZHG_0872\/2023|EPI_ISL_18035526|2023-05-15",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "P193S" ],
+										"nuc": [ "C842T" ]
+									}
+								},
+								"node_attrs": {
+									"div": 97,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_GZHG_1089\/2023|EPI_ISL_18034367|2023-06-03",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "G493C" ],
+										"nuc": [ "C222T", "G1742T", "A22852G" ]
+									}
+								},
+								"node_attrs": {
+									"div": 99,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_GZHG_0871\/2023|EPI_ISL_18034140|2023-05-23",
+								"branch_attrs": {
+									"mutations": {
+										"ORF3a": [ "Y107H" ],
+										"ORF8": [ "L118V" ],
+										"nuc": [ "T25711C", "T28245G" ]
+									}
+								},
+								"node_attrs": {
+									"div": 98,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -6831,8 +7043,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 32",
@@ -6861,8 +7073,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 34",
@@ -6885,8 +7097,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -6909,8 +7121,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -6939,8 +7151,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 8",
@@ -6963,8 +7175,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -6987,8 +7199,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -7017,8 +7229,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7043,8 +7255,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7063,8 +7275,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7089,8 +7301,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7116,8 +7328,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7142,8 +7354,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7162,8 +7374,35 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_ZS_0129\/2023|EPI_ISL_18037316|2023-06-26",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "V6092L" ],
+										"ORF6": [ "S41F" ],
+										"nuc": [ "C10369T", "C17676T", "G18538T", "C27323T" ]
+									}
+								},
+								"node_attrs": {
+									"div": 100,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7182,8 +7421,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7208,8 +7447,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7234,8 +7473,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7261,8 +7500,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7287,8 +7526,28 @@
 									"country": { "value": "Hong Kong" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_ZQ_0068\/2023|EPI_ISL_18037247|2023-05-30",
+								"node_attrs": {
+									"div": 96,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7314,8 +7573,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7334,8 +7593,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -7365,8 +7624,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 22",
@@ -7390,8 +7649,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 30",
@@ -7415,8 +7674,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 29",
@@ -7440,8 +7699,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -7467,8 +7726,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 30",
@@ -7497,8 +7756,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 27",
@@ -7527,8 +7786,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 26",
@@ -7625,8 +7884,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 17",
@@ -7639,9 +7898,9 @@
 									"div": 97,
 									"userOrOld": { "value": "GISAID and\/or public" },
 									"Nextstrain_clade": { "value": "22F" },
-									"pango_lineage": { "value": "FL.21" },
+									"pango_lineage": { "value": "FL.21.2" },
 									"Nextstrain_clade_usher": { "value": "23B (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -7674,8 +7933,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -7705,8 +7964,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -7726,8 +7985,8 @@
 													"country": { "value": "South Korea" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											}
@@ -7735,14 +7994,14 @@
 										"node_attrs": {
 											"div": 101,
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
 								"node_attrs": {
 									"div": 99,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -7782,8 +8041,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -7805,8 +8064,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 26",
@@ -7866,8 +8125,8 @@
 															"country": { "value": "Israel" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															}
 														}
 													},
@@ -7886,8 +8145,8 @@
 															"country": { "value": "Israel" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															}
 														}
 													}
@@ -7900,7 +8159,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.2" }
 												}
 											},
 											{
@@ -7940,8 +8199,8 @@
 															"country": { "value": "Israel" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															}
 														}
 													},
@@ -7983,8 +8242,8 @@
 																	"country": { "value": "Israel" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 																	}
 																}
 															},
@@ -8003,8 +8262,8 @@
 																	"country": { "value": "Israel" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 																	}
 																}
 															}
@@ -8012,7 +8271,7 @@
 														"node_attrs": {
 															"div": 101,
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": { "value": "FL.21" }
+															"pango_lineage_usher": { "value": "FL.21.2" }
 														}
 													},
 													{
@@ -8045,8 +8304,8 @@
 																	"country": { "value": "Israel" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 																	}
 																}
 															},
@@ -8086,8 +8345,8 @@
 																			"country": { "value": "Israel" },
 																			"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																			"pango_lineage_usher": {
-																				"value": "FL.21",
-																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																				"value": "FL.21.2",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 																			}
 																		}
 																	},
@@ -8106,8 +8365,8 @@
 																			"country": { "value": "Israel" },
 																			"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 																			"pango_lineage_usher": {
-																				"value": "FL.21",
-																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																				"value": "FL.21.2",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 																			}
 																		}
 																	}
@@ -8120,7 +8379,7 @@
 																	"pango_lineage": { "value": "uploaded sample" },
 																	"Nextstrain_lineage": { "value": "uploaded sample" },
 																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-																	"pango_lineage_usher": { "value": "FL.21" }
+																	"pango_lineage_usher": { "value": "FL.21.2" }
 																}
 															}
 														],
@@ -8132,7 +8391,7 @@
 															"pango_lineage": { "value": "uploaded sample" },
 															"Nextstrain_lineage": { "value": "uploaded sample" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": { "value": "FL.21" }
+															"pango_lineage_usher": { "value": "FL.21.2" }
 														}
 													}
 												],
@@ -8144,7 +8403,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.2" }
 												}
 											}
 										],
@@ -8156,14 +8415,14 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
 								"node_attrs": {
 									"div": 98,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -8198,8 +8457,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -8219,8 +8478,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 33",
@@ -8232,7 +8491,7 @@
 								"node_attrs": {
 									"div": 97,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -8250,8 +8509,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -8274,8 +8533,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8304,8 +8563,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -8328,8 +8587,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8358,8 +8617,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 15",
@@ -8382,8 +8641,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8412,8 +8671,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 14",
@@ -8442,8 +8701,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 13",
@@ -8467,8 +8726,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 18",
@@ -8491,8 +8750,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8515,8 +8774,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8539,8 +8798,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8564,8 +8823,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 12",
@@ -8595,8 +8854,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 19",
@@ -8619,12 +8878,38 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
 										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice36_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
+									}
+								}
+							},
+							{
+								"name": "Guangdong\/GDCDC_SZ_1501\/2023|EPI_ISL_18035212|2023-05-23",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "E102A" ],
+										"nuc": [ "A570C", "A3943G", "C10747T", "C29284T" ]
+									}
+								},
+								"node_attrs": {
+									"div": 100,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "China" },
+									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+									"pango_lineage_usher": {
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									}
 								}
 							},
@@ -8643,8 +8928,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8668,8 +8953,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 11",
@@ -8698,8 +8983,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 10",
@@ -8722,8 +9007,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8746,8 +9031,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -8771,8 +9056,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 9",
@@ -8795,8 +9080,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -8819,8 +9104,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 37",
@@ -8844,8 +9129,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 20",
@@ -8868,8 +9153,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 									"pango_lineage_usher": {
-										"value": "FL.21",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+										"value": "FL.21.2",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 									},
 									"subtree": {
 										"value": "view subtree 36",
@@ -8942,7 +9227,7 @@
 								"node_attrs": {
 									"div": 97,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -8975,8 +9260,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 32",
@@ -8999,8 +9284,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 32",
@@ -9017,7 +9302,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9050,8 +9335,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 23",
@@ -9074,8 +9359,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 23",
@@ -9092,7 +9377,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9106,31 +9391,6 @@
 									"mutations": { "nuc": [ "A19416C" ] }
 								},
 								"children": [
-									{
-										"name": "Jiangxi\/JXJDZ-056\/2023|EPI_ISL_17794487|2023-05-08",
-										"branch_attrs": { "mutations": { "nuc": [ "C11674T", "G18318T" ] } },
-										"node_attrs": {
-											"div": 99,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "China" },
-											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-											},
-											"subtree": {
-												"value": "view subtree 1",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice1_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
 									{
 										"name": "Jiangxi\/JXFZ-005\/2023|EPI_ISL_17794258|2023-04-18",
 										"node_attrs": {
@@ -9146,13 +9406,83 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 36",
 												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice36_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
 											}
+										}
+									},
+									{
+										"name": "node_10617453",
+										"branch_attrs": {
+											"labels": {
+												"id": "node_10617453",
+												"nuc mutations": "C11674T",
+												"back-mutations": ""
+											},
+											"mutations": { "nuc": [ "C11674T" ] }
+										},
+										"children": [
+											{
+												"name": "Guangdong\/GDCDC_SZHG_1160\/2023|EPI_ISL_18035808|2023-05-20",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "K1981R", "T4249I" ],
+														"S": [ "P521S" ],
+														"nuc": [ "A6207G", "C7735T", "A10633G", "C13011T", "C23123T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 103,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+													}
+												}
+											},
+											{
+												"name": "Jiangxi\/JXJDZ-056\/2023|EPI_ISL_17794487|2023-05-08",
+												"branch_attrs": { "mutations": { "nuc": [ "G18318T" ] } },
+												"node_attrs": {
+													"div": 99,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "China" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+													},
+													"subtree": {
+														"value": "view subtree 1",
+														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice1_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
+													}
+												}
+											}
+										],
+										"node_attrs": {
+											"div": 98,
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -9164,7 +9494,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9198,8 +9528,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 32",
@@ -9222,8 +9552,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 32",
@@ -9240,7 +9570,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9259,6 +9589,33 @@
 								},
 								"children": [
 									{
+										"name": "Guangdong\/GDCDC_GZ_0510\/2023|EPI_ISL_18033846|2023-06-06",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "T1171K" ],
+												"S": [ "P521T" ],
+												"nuc": [ "C3777A", "C23123A" ]
+											}
+										},
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+											}
+										}
+									},
+									{
 										"name": "Jiangxi\/JXFZ-128\/2023|EPI_ISL_17794300|2023-05-03",
 										"node_attrs": {
 											"div": 98,
@@ -9273,8 +9630,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 24",
@@ -9303,8 +9660,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 24",
@@ -9321,7 +9678,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9356,8 +9713,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 7",
@@ -9381,8 +9738,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 7",
@@ -9399,7 +9756,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9433,8 +9790,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9475,8 +9832,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -9502,8 +9859,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -9516,16 +9873,16 @@
 											"div": 99,
 											"userOrOld": { "value": "GISAID and\/or public" },
 											"Nextstrain_clade": { "value": "22F" },
-											"pango_lineage": { "value": "FL.21" },
+											"pango_lineage": { "value": "FL.21.2" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
 								"node_attrs": {
 									"div": 98,
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9554,8 +9911,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9574,8 +9931,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9595,8 +9952,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9621,8 +9978,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9641,8 +9998,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 32",
@@ -9673,8 +10030,8 @@
 											"country": { "value": "USA" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									}
@@ -9687,7 +10044,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9722,8 +10079,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9742,8 +10099,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 36",
@@ -9772,8 +10129,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9798,8 +10155,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9824,8 +10181,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -9855,8 +10212,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 36",
@@ -9880,8 +10237,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -9901,8 +10258,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 36",
@@ -9919,7 +10276,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -9931,7 +10288,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -9971,8 +10328,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 34",
@@ -10018,8 +10375,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 34",
@@ -10048,8 +10405,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 34",
@@ -10066,7 +10423,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -10078,7 +10435,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -10111,8 +10468,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 35",
@@ -10135,8 +10492,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -10160,8 +10517,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 35",
@@ -10201,8 +10558,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 35",
@@ -10225,8 +10582,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 35",
@@ -10249,8 +10606,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 35",
@@ -10267,7 +10624,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -10279,7 +10636,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -10312,8 +10669,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 35",
@@ -10337,8 +10694,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 31",
@@ -10361,8 +10718,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 31",
@@ -10385,8 +10742,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 31",
@@ -10415,8 +10772,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 36",
@@ -10445,8 +10802,56 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+											}
+										}
+									},
+									{
+										"name": "Guangdong\/GDCDC_SZHG_1018\/2023|EPI_ISL_18035669|2023-05-17",
+										"branch_attrs": { "mutations": { "nuc": [ "G101A", "C26645T" ] } },
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+											}
+										}
+									},
+									{
+										"name": "Taiwan\/CDC-W27103\/2023|EPI_ISL_18041696|2023-05-18",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "G5215S" ],
+												"S": [ "N417K" ],
+												"nuc": [ "G15907A", "T22813G" ]
+											}
+										},
+										"node_attrs": {
+											"div": 100,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Taiwan" },
+											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+											"pango_lineage_usher": {
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -10471,8 +10876,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -10501,8 +10906,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 33",
@@ -10519,7 +10924,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -10553,35 +10958,79 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
 									{
-										"name": "Costa_Rica\/INC-11423-795817\/2023|EPI_ISL_17834307|2023-05-30",
+										"name": "node_10617454",
 										"branch_attrs": {
+											"labels": {
+												"id": "node_10617454",
+												"nuc mutations": "T3877C,G8900A",
+												"back-mutations": "",
+												"aa mutations": "ORF1ab:G2879S"
+											},
 											"mutations": {
 												"ORF1ab": [ "G2879S" ],
 												"nuc": [ "T3877C", "G8900A" ]
 											}
 										},
+										"children": [
+											{
+												"name": "USA\/GA-CDC-LC1046156\/2023|EPI_ISL_18037616|2023-07-11",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "G519S" ],
+														"ORF6": [ "V9I" ],
+														"ORF10": [ "T38I" ],
+														"nuc": [ "G1820A", "T6988C", "G27226A", "C29670T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 103,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "USA" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+													}
+												}
+											},
+											{
+												"name": "Costa_Rica\/INC-11423-795817\/2023|EPI_ISL_17834307|2023-05-30",
+												"node_attrs": {
+													"div": 99,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "Costa Rica" },
+													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+													"pango_lineage_usher": {
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+													}
+												}
+											}
+										],
 										"node_attrs": {
 											"div": 99,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "Costa Rica" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-											}
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									},
 									{
@@ -10599,8 +11048,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 36",
@@ -10641,8 +11090,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -10666,8 +11115,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -10686,8 +11135,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -10707,8 +11156,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 33",
@@ -10742,8 +11191,8 @@
 															"country": { "value": "China" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															}
 														}
 													},
@@ -10763,8 +11212,8 @@
 															"country": { "value": "China" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															},
 															"subtree": {
 																"value": "view subtree 35",
@@ -10781,7 +11230,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.2" }
 												}
 											},
 											{
@@ -10805,8 +11254,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 33",
@@ -10851,42 +11300,12 @@
 															"country": { "value": "China" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															},
 															"subtree": {
 																"value": "view subtree 37",
 																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice37_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
-															}
-														}
-													},
-													{
-														"name": "Jiangxi\/JXNC-241\/2023|EPI_ISL_17794710|2023-05-08",
-														"branch_attrs": {
-															"mutations": {
-																"ORF10": [ "R24C" ],
-																"nuc": [ "C13608T", "C29627T" ]
-															}
-														},
-														"node_attrs": {
-															"div": 101,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "China" },
-															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
-															},
-															"subtree": {
-																"value": "view subtree 33",
-																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice33_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
 															}
 														}
 													},
@@ -10911,13 +11330,122 @@
 															"country": { "value": "China" },
 															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 															"pango_lineage_usher": {
-																"value": "FL.21",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																"value": "FL.21.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 															},
 															"subtree": {
 																"value": "view subtree 33",
 																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice33_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
 															}
+														}
+													},
+													{
+														"name": "node_10617452",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_10617452",
+																"nuc mutations": "C29627T",
+																"back-mutations": "",
+																"aa mutations": "ORF10:R24C"
+															},
+															"mutations": {
+																"ORF10": [ "R24C" ],
+																"nuc": [ "C29627T" ]
+															}
+														},
+														"children": [
+															{
+																"name": "Guangdong\/GDCDC_ZS_0121\/2023|EPI_ISL_18037310|2023-06-19",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "L384F" ],
+																		"nuc": [ "C1415T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 101,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "China" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+																	}
+																}
+															},
+															{
+																"name": "Jiangxi\/JXNC-241\/2023|EPI_ISL_17794710|2023-05-08",
+																"branch_attrs": {
+																	"mutations": {
+																		"nuc": [ "C13608T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 101,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "China" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+																	},
+																	"subtree": {
+																		"value": "view subtree 33",
+																		"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice33_genome_eea3_9e6bc0.json?f_userOrOld=uploaded%20sample"
+																	}
+																}
+															},
+															{
+																"name": "Guangdong\/GDCDC_ST_0250\/2023|EPI_ISL_18034952|2023-07-04",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "V6637I" ],
+																		"ORF7a": [ "Q62*" ],
+																		"nuc": [ "G20173A", "C27577T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 102,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "China" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.2",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 100,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": { "value": "uploaded sample" },
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+															"pango_lineage_usher": { "value": "FL.21.2" }
 														}
 													}
 												],
@@ -10929,7 +11457,7 @@
 													"pango_lineage": { "value": "uploaded sample" },
 													"Nextstrain_lineage": { "value": "uploaded sample" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-													"pango_lineage_usher": { "value": "FL.21" }
+													"pango_lineage_usher": { "value": "FL.21.2" }
 												}
 											}
 										],
@@ -10941,7 +11469,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -10953,7 +11481,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							},
 							{
@@ -10982,8 +11510,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11002,8 +11530,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11023,8 +11551,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11043,8 +11571,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11067,8 +11595,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11091,8 +11619,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11115,8 +11643,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11145,8 +11673,8 @@
 											"country": { "value": "South Korea" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11172,8 +11700,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11199,8 +11727,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11225,8 +11753,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11252,8 +11780,8 @@
 											"country": { "value": "Taiwan" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											}
 										}
 									},
@@ -11272,8 +11800,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11297,8 +11825,8 @@
 											"country": { "value": "China" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11322,8 +11850,8 @@
 											"country": { "value": "USA" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 											"pango_lineage_usher": {
-												"value": "FL.21",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 											},
 											"subtree": {
 												"value": "view subtree 37",
@@ -11357,8 +11885,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -11387,8 +11915,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -11413,8 +11941,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													}
 												}
 											},
@@ -11433,8 +11961,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -11451,7 +11979,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									},
 									{
@@ -11480,8 +12008,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -11504,8 +12032,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -11529,8 +12057,8 @@
 													"country": { "value": "China" },
 													"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
 													"pango_lineage_usher": {
-														"value": "FL.21",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+														"value": "FL.21.2",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
 													},
 													"subtree": {
 														"value": "view subtree 37",
@@ -11547,7 +12075,7 @@
 											"pango_lineage": { "value": "uploaded sample" },
 											"Nextstrain_lineage": { "value": "uploaded sample" },
 											"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-											"pango_lineage_usher": { "value": "FL.21" }
+											"pango_lineage_usher": { "value": "FL.21.2" }
 										}
 									}
 								],
@@ -11559,7 +12087,7 @@
 									"pango_lineage": { "value": "uploaded sample" },
 									"Nextstrain_lineage": { "value": "uploaded sample" },
 									"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-									"pango_lineage_usher": { "value": "FL.21" }
+									"pango_lineage_usher": { "value": "FL.21.2" }
 								}
 							}
 						],
@@ -11571,7 +12099,7 @@
 							"pango_lineage": { "value": "uploaded sample" },
 							"Nextstrain_lineage": { "value": "uploaded sample" },
 							"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-							"pango_lineage_usher": { "value": "FL.21" }
+							"pango_lineage_usher": { "value": "FL.21.2" }
 						}
 					}
 				],
