@@ -5438,6 +5438,33 @@
 																		"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice18_genome_303b8_577d40.json?f_userOrOld=uploaded%20sample"
 																	}
 																}
+															},
+															{
+																"name": "Heilongjiang\/HLJCDC-1805\/2023|EPI_ISL_18055714|2023-07-04",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "A260T", "S2083N" ],
+																		"ORF3a": [ "Y211H" ],
+																		"nuc": [ "G1043A", "G6513A", "G17667A", "C24370T", "T26023C" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 106,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "China" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
 															}
 														],
 														"node_attrs": {
@@ -6792,6 +6819,27 @@
 																"name": "Canada\/BC-BCCDC-637888\/2023|EPI_ISL_18045259|2023-07-06",
 																"node_attrs": {
 																	"div": 106,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Canada" },
+																	"Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+																	}
+																}
+															},
+															{
+																"name": "Canada\/BC-BCCDC-638432\/2023|EPI_ISL_18057738|2023-07-16",
+																"branch_attrs": { "mutations": { "nuc": [ "C9502T" ] } },
+																"node_attrs": {
+																	"div": 107,
 																	"userOrOld": { "value": "uploaded sample" },
 																	"Nextstrain_clade": { "value": "uploaded sample" },
 																	"GISAID_clade": { "value": "uploaded sample" },
