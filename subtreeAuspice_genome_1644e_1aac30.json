@@ -13707,6 +13707,53 @@
 										}
 									},
 									{
+										"name": "Gansu\/GSCDC-0476\/2023|EPI_ISL_18138018|2023-06-13",
+										"branch_attrs": { "mutations": { "nuc": [ "G29734T" ] } },
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+											}
+										}
+									},
+									{
+										"name": "Shanxi\/JCCDC-JCCX0310\/2023|EPI_ISL_18138293|2023-06-25",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "A6145V" ],
+												"nuc": [ "C8626T", "C18698T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 99,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "China" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.21.2",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.2"
+											}
+										}
+									},
+									{
 										"name": "Liaoning\/LNCDC-115-1\/2023|EPI_ISL_17652379|2023-04-20",
 										"node_attrs": {
 											"div": 97,
