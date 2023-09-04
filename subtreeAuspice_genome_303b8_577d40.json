@@ -3085,24 +3085,26 @@
 														}
 													},
 													{
-														"name": "node_10491982",
+														"name": "node_10800758",
 														"branch_attrs": {
 															"labels": {
-																"id": "node_10491982",
-																"nuc mutations": "G596A,A12502G",
-																"back-mutations": "",
-																"aa mutations": "ORF1ab:V111M"
+																"id": "node_10800758",
+																"nuc mutations": "A12502G",
+																"back-mutations": ""
 															},
-															"mutations": {
-																"ORF1ab": [ "V111M" ],
-																"nuc": [ "G596A", "A12502G" ]
-															}
+															"mutations": { "nuc": [ "A12502G" ] }
 														},
 														"children": [
 															{
-																"name": "Singapore\/R45MR16\/2023|EPI_ISL_17957336|2023-06-26",
+																"name": "Henan\/XXCDC-062816\/2023|EPI_ISL_18213305|2023-06-20",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "T1000A", "T2087I" ],
+																		"nuc": [ "A3263G", "C6525T" ]
+																	}
+																},
 																"node_attrs": {
-																	"div": 102,
+																	"div": 103,
 																	"userOrOld": { "value": "uploaded sample" },
 																	"Nextstrain_clade": { "value": "uploaded sample" },
 																	"GISAID_clade": { "value": "uploaded sample" },
@@ -3111,7 +3113,7 @@
 																		"url": "uploaded sample"
 																	},
 																	"Nextstrain_lineage": { "value": "uploaded sample" },
-																	"country": { "value": "Singapore" },
+																	"country": { "value": "China" },
 																	"Nextstrain_clade_usher": { "value": "22F (XBB)" },
 																	"pango_lineage_usher": {
 																		"value": "GW.1.1",
@@ -3120,50 +3122,92 @@
 																}
 															},
 															{
-																"name": "Singapore\/R47MR42\/2023|EPI_ISL_18082629|2023-07-04",
+																"name": "node_10491982",
+																"branch_attrs": {
+																	"labels": {
+																		"id": "node_10491982",
+																		"nuc mutations": "G596A",
+																		"back-mutations": "",
+																		"aa mutations": "ORF1ab:V111M"
+																	},
+																	"mutations": {
+																		"ORF1ab": [ "V111M" ],
+																		"nuc": [ "G596A" ]
+																	}
+																},
+																"children": [
+																	{
+																		"name": "Singapore\/R45MR16\/2023|EPI_ISL_17957336|2023-06-26",
+																		"node_attrs": {
+																			"div": 102,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Singapore" },
+																			"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+																			"pango_lineage_usher": {
+																				"value": "GW.1.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																			}
+																		}
+																	},
+																	{
+																		"name": "Singapore\/R47MR42\/2023|EPI_ISL_18082629|2023-07-04",
+																		"node_attrs": {
+																			"div": 102,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Singapore" },
+																			"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+																			"pango_lineage_usher": {
+																				"value": "GW.1.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																			}
+																		}
+																	},
+																	{
+																		"name": "Singapore\/R40MR82\/2023|EPI_ISL_17815754|2023-06-08",
+																		"node_attrs": {
+																			"div": 102,
+																			"userOrOld": { "value": "GISAID and\/or public" },
+																			"date": { "value": "2023-06-08" },
+																			"Nextstrain_clade": { "value": "22F" },
+																			"pango_lineage": {
+																				"value": "GW.1.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																			},
+																			"genbank_accession": { "value": "" },
+																			"country": { "value": "Singapore" },
+																			"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+																			"pango_lineage_usher": {
+																				"value": "GW.1.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																			}
+																		}
+																	}
+																],
 																"node_attrs": {
 																	"div": 102,
-																	"userOrOld": { "value": "uploaded sample" },
-																	"Nextstrain_clade": { "value": "uploaded sample" },
-																	"GISAID_clade": { "value": "uploaded sample" },
-																	"pango_lineage": {
-																		"value": "uploaded sample",
-																		"url": "uploaded sample"
-																	},
-																	"Nextstrain_lineage": { "value": "uploaded sample" },
-																	"country": { "value": "Singapore" },
 																	"Nextstrain_clade_usher": { "value": "22F (XBB)" },
-																	"pango_lineage_usher": {
-																		"value": "GW.1.1",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
-																	}
-																}
-															},
-															{
-																"name": "Singapore\/R40MR82\/2023|EPI_ISL_17815754|2023-06-08",
-																"node_attrs": {
-																	"div": 102,
-																	"userOrOld": { "value": "GISAID and\/or public" },
-																	"date": { "value": "2023-06-08" },
-																	"Nextstrain_clade": { "value": "22F" },
-																	"pango_lineage": {
-																		"value": "GW.1.1",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
-																	},
-																	"genbank_accession": { "value": "" },
-																	"country": { "value": "Singapore" },
-																	"Nextstrain_clade_usher": { "value": "22F (XBB)" },
-																	"pango_lineage_usher": {
-																		"value": "GW.1.1",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
-																	}
+																	"pango_lineage_usher": { "value": "GW.1.1" }
 																}
 															}
 														],
 														"node_attrs": {
-															"div": 102,
+															"div": 101,
 															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
-															"pango_lineage_usher": { "value": "GW.1.1" }
+															"pango_lineage_usher": { "value": "GW.1" }
 														}
 													}
 												],
