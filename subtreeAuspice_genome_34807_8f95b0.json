@@ -1020,6 +1020,26 @@
                                         }
                                     },
                                     {
+                                        "name": "USA\/MN-HLX-VSX-A04181\/2023|EPI_ISL_18297761|2023-05-04",
+                                        "node_attrs": {
+                                            "div": 99,
+                                            "userOrOld": { "value": "uploaded sample" },
+                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                            "GISAID_clade": { "value": "uploaded sample" },
+                                            "pango_lineage": {
+                                                "value": "uploaded sample",
+                                                "url": "uploaded sample"
+                                            },
+                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                            "country": { "value": "USA" },
+                                            "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                            "pango_lineage_usher": {
+                                                "value": "XBB.1.9.1",
+                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                            }
+                                        }
+                                    },
+                                    {
                                         "name": "USA\/SD-SDPHL-2800-SD-M05027-230512\/2023|EPI_ISL_17734764|2023-04-23",
                                         "node_attrs": {
                                             "div": 99,
@@ -2062,27 +2082,6 @@
                                                 }
                                             },
                                             {
-                                                "name": "USA\/MN-MDH-35570\/2023|EPI_ISL_17743701|2023-05-04",
-                                                "branch_attrs": { "mutations": { "nuc": [ "A23764T" ] } },
-                                                "node_attrs": {
-                                                    "div": 101,
-                                                    "userOrOld": { "value": "uploaded sample" },
-                                                    "Nextstrain_clade": { "value": "uploaded sample" },
-                                                    "GISAID_clade": { "value": "uploaded sample" },
-                                                    "pango_lineage": {
-                                                        "value": "uploaded sample",
-                                                        "url": "uploaded sample"
-                                                    },
-                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
-                                                    "country": { "value": "USA" },
-                                                    "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
-                                                    "pango_lineage_usher": {
-                                                        "value": "XBB.1.9.1",
-                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
-                                                    }
-                                                }
-                                            },
-                                            {
                                                 "name": "USA\/OH-PLMI-18493\/2023|EPI_ISL_17423639|2023",
                                                 "branch_attrs": {
                                                     "mutations": {
@@ -2122,6 +2121,26 @@
                                                     "Nextstrain_lineage": { "value": "uploaded sample" },
                                                     "country": { "value": "USA" },
                                                     "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                    "pango_lineage_usher": {
+                                                        "value": "XBB.1.9.1",
+                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "USA\/MN-HLX-VSX-A04211\/2023|EPI_ISL_18297724|2023-05-06",
+                                                "node_attrs": {
+                                                    "div": 100,
+                                                    "userOrOld": { "value": "uploaded sample" },
+                                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                                    "GISAID_clade": { "value": "uploaded sample" },
+                                                    "pango_lineage": {
+                                                        "value": "uploaded sample",
+                                                        "url": "uploaded sample"
+                                                    },
+                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                    "country": { "value": "USA" },
+                                                    "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
                                                     "pango_lineage_usher": {
                                                         "value": "XBB.1.9.1",
                                                         "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
@@ -2250,6 +2269,64 @@
                                                         "value": "XBB.1.9.1",
                                                         "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
                                                     }
+                                                }
+                                            },
+                                            {
+                                                "name": "node_10909616",
+                                                "branch_attrs": {
+                                                    "labels": {
+                                                        "id": "node_10909616",
+                                                        "nuc mutations": "A23764T",
+                                                        "back-mutations": ""
+                                                    },
+                                                    "mutations": { "nuc": [ "A23764T" ] }
+                                                },
+                                                "children": [
+                                                    {
+                                                        "name": "USA\/MN-HLX-VSX-A04159\/2023|EPI_ISL_18297773|2023-05-03",
+                                                        "node_attrs": {
+                                                            "div": 101,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "USA\/MN-MDH-35570\/2023|EPI_ISL_17743701|2023-05-04",
+                                                        "node_attrs": {
+                                                            "div": 101,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "22F (Omicron)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "node_attrs": {
+                                                    "div": 101,
+                                                    "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                                    "pango_lineage_usher": { "value": "XBB.1.9.1" }
                                                 }
                                             },
                                             {
