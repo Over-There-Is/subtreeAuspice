@@ -1531,6 +1531,33 @@
                                                 },
                                                 "children": [
                                                     {
+                                                        "name": "USA\/CA-CDPH-500122437\/2023|EPI_ISL_18317630|2023-07-12",
+                                                        "branch_attrs": {
+                                                            "mutations": {
+                                                                "ORF1ab": [ "D139N", "V6637I" ],
+                                                                "ORF8": [ "G77S" ],
+                                                                "nuc": [ "G680A", "G20173A", "G28122A" ]
+                                                            }
+                                                        },
+                                                        "node_attrs": {
+                                                            "div": 105,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
                                                         "name": "USA\/CA-CDPH-500115825\/2023|EPI_ISL_17997794|2023-05-16",
                                                         "node_attrs": {
                                                             "div": 102,
