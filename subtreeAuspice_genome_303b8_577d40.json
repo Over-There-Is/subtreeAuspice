@@ -2899,6 +2899,32 @@
 														}
 													},
 													{
+														"name": "France\/IDF-IPP20449\/2023|EPI_ISL_18327379|2023-09-18",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "A4946V" ],
+																"nuc": [ "G553A", "C2146T", "C15101T", "G16020A" ]
+															}
+														},
+														"node_attrs": {
+															"div": 104,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "France" },
+															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+															"pango_lineage_usher": {
+																"value": "GW.1.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+															}
+														}
+													},
+													{
 														"name": "Guangdong\/GDCDC_SZ_1343\/2023|EPI_ISL_18035126|2023-05-22",
 														"node_attrs": {
 															"div": 100,
