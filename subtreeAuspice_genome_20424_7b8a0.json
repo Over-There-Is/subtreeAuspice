@@ -871,6 +871,32 @@
                                                 }
                                             },
                                             {
+                                                "name": "Canada\/BC-BCCDC-646778\/2023|EPI_ISL_18357726|2023-09-01",
+                                                "branch_attrs": {
+                                                    "mutations": {
+                                                        "ORF1ab": [ "R3662H" ],
+                                                        "nuc": [ "G11250A" ]
+                                                    }
+                                                },
+                                                "node_attrs": {
+                                                    "div": 118,
+                                                    "userOrOld": { "value": "uploaded sample" },
+                                                    "Nextstrain_clade": { "value": "uploaded sample" },
+                                                    "GISAID_clade": { "value": "uploaded sample" },
+                                                    "pango_lineage": {
+                                                        "value": "uploaded sample",
+                                                        "url": "uploaded sample"
+                                                    },
+                                                    "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                    "country": { "value": "Canada" },
+                                                    "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                                    "pango_lineage_usher": {
+                                                        "value": "XBB.1.9.1",
+                                                        "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                    }
+                                                }
+                                            },
+                                            {
                                                 "name": "Denmark\/DCGC-659001\/2023|EPI_ISL_18210614|2023-08-21",
                                                 "node_attrs": {
                                                     "div": 117,
@@ -905,6 +931,26 @@
                                                     }
                                                 },
                                                 "children": [
+                                                    {
+                                                        "name": "USA\/MN-CDC-VSX-A09290\/2023|EPI_ISL_18344025|2023-09-19",
+                                                        "node_attrs": {
+                                                            "div": 118,
+                                                            "userOrOld": { "value": "uploaded sample" },
+                                                            "Nextstrain_clade": { "value": "uploaded sample" },
+                                                            "GISAID_clade": { "value": "uploaded sample" },
+                                                            "pango_lineage": {
+                                                                "value": "uploaded sample",
+                                                                "url": "uploaded sample"
+                                                            },
+                                                            "Nextstrain_lineage": { "value": "uploaded sample" },
+                                                            "country": { "value": "USA" },
+                                                            "Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+                                                            "pango_lineage_usher": {
+                                                                "value": "XBB.1.9.1",
+                                                                "url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+                                                            }
+                                                        }
+                                                    },
                                                     {
                                                         "name": "USA\/CA-CDC-VSX-A356876\/2023|EPI_ISL_18300257|2023-09-05",
                                                         "node_attrs": {
