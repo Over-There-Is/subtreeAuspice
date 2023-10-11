@@ -1774,6 +1774,32 @@
 								}
 							},
 							{
+								"name": "France\/IDF-IPP21470\/2023|EPI_ISL_18363435|2023-09-25",
+								"branch_attrs": {
+									"mutations": {
+										"ORF1ab": [ "A498V", "T2153A", "A4285V", "E6129D" ],
+										"nuc": [ "C1758T", "T1888C", "T3400C", "T5941C", "A6722G", "C13119T", "G14118A", "G18651T", "T24397C", "T25842C" ]
+									}
+								},
+								"node_attrs": {
+									"div": 109,
+									"userOrOld": { "value": "uploaded sample" },
+									"Nextstrain_clade": { "value": "uploaded sample" },
+									"GISAID_clade": { "value": "uploaded sample" },
+									"pango_lineage": {
+										"value": "uploaded sample",
+										"url": "uploaded sample"
+									},
+									"Nextstrain_lineage": { "value": "uploaded sample" },
+									"country": { "value": "France" },
+									"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+									"pango_lineage_usher": {
+										"value": "FL.21",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+									}
+								}
+							},
+							{
 								"name": "USA\/NY-CDC-LC1041121\/2023|EPI_ISL_17674285|2023-05-03",
 								"node_attrs": {
 									"div": 99,
@@ -4620,6 +4646,32 @@
 												},
 												"children": [
 													{
+														"name": "USA\/CT-CDC-QDX85582861\/2023|EPI_ISL_18369287|2023-09-22",
+														"branch_attrs": {
+															"mutations": {
+																"S": [ "R190S" ],
+																"nuc": [ "C5884T", "G22132T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 104,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "USA" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "FL.21",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+															}
+														}
+													},
+													{
 														"name": "USA\/TX-HMH-M-132385\/2023|EPI_ISL_18256388|2023-08-24",
 														"branch_attrs": {
 															"mutations": {
@@ -5202,13 +5254,8 @@
 														},
 														"children": [
 															{
-																"name": "Japan\/PG-567086\/2023|EPI_ISL_18320643|2023-09-05",
-																"branch_attrs": {
-																	"mutations": {
-																		"ORF1ab": [ "L4919F" ],
-																		"nuc": [ "T2233C", "C15019T" ]
-																	}
-																},
+																"name": "Japan\/PG-573178\/2023|EPI_ISL_18342840|2023-09-12",
+																"branch_attrs": { "mutations": { "nuc": [ "C4276T", "T25723C" ] } },
 																"node_attrs": {
 																	"div": 105,
 																	"userOrOld": { "value": "uploaded sample" },
@@ -5228,24 +5275,67 @@
 																}
 															},
 															{
-																"name": "Japan\/PG-573178\/2023|EPI_ISL_18342840|2023-09-12",
-																"branch_attrs": { "mutations": { "nuc": [ "C4276T", "T25723C" ] } },
-																"node_attrs": {
-																	"div": 105,
-																	"userOrOld": { "value": "uploaded sample" },
-																	"Nextstrain_clade": { "value": "uploaded sample" },
-																	"GISAID_clade": { "value": "uploaded sample" },
-																	"pango_lineage": {
-																		"value": "uploaded sample",
-																		"url": "uploaded sample"
+																"name": "node_10977741",
+																"branch_attrs": {
+																	"labels": {
+																		"id": "node_10977741",
+																		"nuc mutations": "T2233C",
+																		"back-mutations": ""
 																	},
-																	"Nextstrain_lineage": { "value": "uploaded sample" },
-																	"country": { "value": "Japan" },
-																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-																	"pango_lineage_usher": {
-																		"value": "FL.21",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																	"mutations": { "nuc": [ "T2233C" ] }
+																},
+																"children": [
+																	{
+																		"name": "Japan\/PG-572004\/2023|EPI_ISL_18373125|2023-09-09",
+																		"node_attrs": {
+																			"div": 104,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Japan" },
+																			"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																			"pango_lineage_usher": {
+																				"value": "FL.21",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																			}
+																		}
+																	},
+																	{
+																		"name": "Japan\/PG-567086\/2023|EPI_ISL_18320643|2023-09-05",
+																		"branch_attrs": {
+																			"mutations": {
+																				"ORF1ab": [ "L4919F" ],
+																				"nuc": [ "C15019T" ]
+																			}
+																		},
+																		"node_attrs": {
+																			"div": 105,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Japan" },
+																			"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																			"pango_lineage_usher": {
+																				"value": "FL.21",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21"
+																			}
+																		}
 																	}
+																],
+																"node_attrs": {
+																	"div": 104,
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": { "value": "XBB.1.9.1" }
 																}
 															}
 														],
@@ -10388,33 +10478,6 @@
 														}
 													},
 													{
-														"name": "Japan\/PG-567150\/2023|EPI_ISL_18306466|2023-08-31",
-														"branch_attrs": {
-															"mutations": {
-																"ORF1ab": [ "T951I" ],
-																"S": [ "S490P" ],
-																"nuc": [ "C3117T", "C16308T", "C18303T", "T20550C", "T23030C" ]
-															}
-														},
-														"node_attrs": {
-															"div": 102,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Japan" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "FL.21.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
-															}
-														}
-													},
-													{
 														"name": "Japan\/PG-550172\/2023|EPI_ISL_18048831|2023-07-12",
 														"node_attrs": {
 															"div": 97,
@@ -10632,21 +10695,26 @@
 														}
 													},
 													{
-														"name": "node_10923250",
+														"name": "node_10977744",
 														"branch_attrs": {
 															"labels": {
-																"id": "node_10923250",
-																"nuc mutations": "C22264T",
-																"back-mutations": ""
+																"id": "node_10977744",
+																"nuc mutations": "C3117T,C16308T,C18303T,T20550C,T23030C",
+																"back-mutations": "",
+																"aa mutations": "ORF1ab:T951I,S:S490P",
+																"Spike mutations": "S:S490P"
 															},
-															"mutations": { "nuc": [ "C22264T" ] }
+															"mutations": {
+																"ORF1ab": [ "T951I" ],
+																"S": [ "S490P" ],
+																"nuc": [ "C3117T", "C16308T", "C18303T", "T20550C", "T23030C" ]
+															}
 														},
 														"children": [
 															{
-																"name": "Japan\/PG-567532\/2023|EPI_ISL_18313466|2023-08-28",
-																"branch_attrs": { "mutations": { "nuc": [ "C19374T", "C19662T" ] } },
+																"name": "Japan\/RIMD27585\/2023|EPI_ISL_18372815|2023-09-07",
 																"node_attrs": {
-																	"div": 100,
+																	"div": 102,
 																	"userOrOld": { "value": "uploaded sample" },
 																	"Nextstrain_clade": { "value": "uploaded sample" },
 																	"GISAID_clade": { "value": "uploaded sample" },
@@ -10663,6 +10731,44 @@
 																	}
 																}
 															},
+															{
+																"name": "Japan\/PG-567150\/2023|EPI_ISL_18306466|2023-08-31",
+																"node_attrs": {
+																	"div": 102,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Japan" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 102,
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": { "value": "FL.21.1" }
+														}
+													},
+													{
+														"name": "node_10923250",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_10923250",
+																"nuc mutations": "C22264T",
+																"back-mutations": ""
+															},
+															"mutations": { "nuc": [ "C22264T" ] }
+														},
+														"children": [
 															{
 																"name": "Japan\/PG-561892\/2023|EPI_ISL_18218342|2023-08-19",
 																"node_attrs": {
@@ -10681,6 +10787,70 @@
 																		"value": "FL.21.1",
 																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 																	}
+																}
+															},
+															{
+																"name": "node_10977743",
+																"branch_attrs": {
+																	"labels": {
+																		"id": "node_10977743",
+																		"nuc mutations": "C19374T,C19662T",
+																		"back-mutations": ""
+																	},
+																	"mutations": { "nuc": [ "C19374T", "C19662T" ] }
+																},
+																"children": [
+																	{
+																		"name": "Australia\/QLD0x0139A2\/2023|EPI_ISL_18365878|2023-09-27",
+																		"branch_attrs": {
+																			"mutations": {
+																				"ORF1ab": [ "A339T" ],
+																				"nuc": [ "G1280A", "C28849T" ]
+																			}
+																		},
+																		"node_attrs": {
+																			"div": 102,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Australia" },
+																			"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																			"pango_lineage_usher": {
+																				"value": "FL.21.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																			}
+																		}
+																	},
+																	{
+																		"name": "Japan\/PG-567532\/2023|EPI_ISL_18313466|2023-08-28",
+																		"node_attrs": {
+																			"div": 100,
+																			"userOrOld": { "value": "uploaded sample" },
+																			"Nextstrain_clade": { "value": "uploaded sample" },
+																			"GISAID_clade": { "value": "uploaded sample" },
+																			"pango_lineage": {
+																				"value": "uploaded sample",
+																				"url": "uploaded sample"
+																			},
+																			"Nextstrain_lineage": { "value": "uploaded sample" },
+																			"country": { "value": "Japan" },
+																			"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																			"pango_lineage_usher": {
+																				"value": "FL.21.1",
+																				"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																			}
+																		}
+																	}
+																],
+																"node_attrs": {
+																	"div": 100,
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": { "value": "FL.21.1" }
 																}
 															}
 														],
