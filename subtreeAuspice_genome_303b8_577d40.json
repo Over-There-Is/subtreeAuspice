@@ -7213,6 +7213,32 @@
 														}
 													},
 													{
+														"name": "USA\/NY-CDC-QDX84496590\/2023|EPI_ISL_18375466|2023-08-27",
+														"branch_attrs": {
+															"mutations": {
+																"S": [ "L179F" ],
+																"nuc": [ "C22097T", "C25156T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 104,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "USA" },
+															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+															"pango_lineage_usher": {
+																"value": "GW.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+															}
+														}
+													},
+													{
 														"name": "Canada\/ON-PHL-23-25856\/2023|EPI_ISL_17814704|2023-06-11",
 														"node_attrs": {
 															"div": 102,
