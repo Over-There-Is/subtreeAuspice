@@ -1180,117 +1180,6 @@
 												}
 											},
 											{
-												"name": "node_11026879",
-												"branch_attrs": {
-													"labels": {
-														"id": "node_11026879",
-														"nuc mutations": "A11782G",
-														"back-mutations": ""
-													},
-													"mutations": { "nuc": [ "A11782G" ] }
-												},
-												"children": [
-													{
-														"name": "Italy\/SIC-CQRC-3423018199\/2023|EPI_ISL_18419489|2023-09-07",
-														"branch_attrs": {
-															"mutations": {
-																"ORF3a": [ "G44R" ],
-																"nuc": [ "G25522A" ]
-															}
-														},
-														"node_attrs": {
-															"div": 117,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Italy" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "EG.5.2",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
-															}
-														}
-													},
-													{
-														"name": "Italy\/SIC-CQRC-3423018223\/2023|EPI_ISL_18419462|2023-09-07",
-														"branch_attrs": { "mutations": { "nuc": [ "C1912T" ] } },
-														"node_attrs": {
-															"div": 117,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Italy" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "EG.5.2",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
-															}
-														}
-													},
-													{
-														"name": "Italy\/SIC-CQRC-3423018240\/2023|EPI_ISL_18419447|2023-09-07",
-														"branch_attrs": { "mutations": { "nuc": [ "T22951C" ] } },
-														"node_attrs": {
-															"div": 117,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Italy" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "EG.5.2",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
-															}
-														}
-													},
-													{
-														"name": "Italy\/SIC-CQRC-3423018245\/2023|EPI_ISL_18419443|2023-09-07",
-														"node_attrs": {
-															"div": 116,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Italy" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "EG.5.2",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
-															}
-														}
-													}
-												],
-												"node_attrs": {
-													"div": 116,
-													"userOrOld": { "value": "uploaded sample" },
-													"Nextstrain_clade": { "value": "uploaded sample" },
-													"GISAID_clade": { "value": "uploaded sample" },
-													"pango_lineage": { "value": "uploaded sample" },
-													"Nextstrain_lineage": { "value": "uploaded sample" },
-													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-													"pango_lineage_usher": { "value": "EG.5.2" }
-												}
-											},
-											{
 												"name": "node_6946875",
 												"branch_attrs": {
 													"labels": {
@@ -1393,6 +1282,117 @@
 													"div": 118,
 													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
 													"pango_lineage_usher": { "value": "XBB.1.9.1" }
+												}
+											},
+											{
+												"name": "node_11026879",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_11026879",
+														"nuc mutations": "A11782G",
+														"back-mutations": ""
+													},
+													"mutations": { "nuc": [ "A11782G" ] }
+												},
+												"children": [
+													{
+														"name": "Italy\/SIC-CQRC-3423018199\/2023|EPI_ISL_18419489|2023-09-07",
+														"branch_attrs": {
+															"mutations": {
+																"ORF3a": [ "G44R" ],
+																"nuc": [ "G25522A" ]
+															}
+														},
+														"node_attrs": {
+															"div": 119,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Italy" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													},
+													{
+														"name": "Italy\/SIC-CQRC-3423018223\/2023|EPI_ISL_18419462|2023-09-07",
+														"branch_attrs": { "mutations": { "nuc": [ "C1912T" ] } },
+														"node_attrs": {
+															"div": 119,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Italy" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													},
+													{
+														"name": "Italy\/SIC-CQRC-3423018240\/2023|EPI_ISL_18419447|2023-09-07",
+														"branch_attrs": { "mutations": { "nuc": [ "T22951C" ] } },
+														"node_attrs": {
+															"div": 119,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Italy" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													},
+													{
+														"name": "Italy\/SIC-CQRC-3423018245\/2023|EPI_ISL_18419443|2023-09-07",
+														"node_attrs": {
+															"div": 118,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Italy" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 118,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": { "value": "uploaded sample" },
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+													"pango_lineage_usher": { "value": "EG.5.2" }
 												}
 											},
 											{
@@ -1553,7 +1553,7 @@
 																	{
 																		"name": "USA\/NY-CDC-QDX85528248\/2023|EPI_ISL_18368928|2023-09-23",
 																		"node_attrs": {
-																			"div": 122,
+																			"div": 120,
 																			"userOrOld": { "value": "uploaded sample" },
 																			"Nextstrain_clade": { "value": "uploaded sample" },
 																			"GISAID_clade": { "value": "uploaded sample" },
@@ -1573,7 +1573,7 @@
 																	{
 																		"name": "USA\/NY-SUNYQB-X6631\/2023|EPI_ISL_18364276|2023-09-19",
 																		"node_attrs": {
-																			"div": 122,
+																			"div": 120 ,
 																			"userOrOld": { "value": "uploaded sample" },
 																			"Nextstrain_clade": { "value": "uploaded sample" },
 																			"GISAID_clade": { "value": "uploaded sample" },
