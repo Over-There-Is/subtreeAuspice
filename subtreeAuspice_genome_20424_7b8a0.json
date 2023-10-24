@@ -1291,6 +1291,111 @@
 												}
 											},
 											{
+												"name": "node_6946875",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_6946875",
+														"nuc mutations": "C17642T",
+														"back-mutations": "",
+														"aa mutations": "ORF1ab:A5793V"
+													},
+													"mutations": {
+														"ORF1ab": [ "A5793V" ],
+														"nuc": [ "C17642T" ]
+													}
+												},
+												"children": [
+													{
+														"name": "Italy\/APU_UNIBA_APU-Ba1121\/2023|EPI_ISL_18210080|2023-08-23",
+														"node_attrs": {
+															"div": 118,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Italy" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "XBB.1.9.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+															}
+														}
+													},
+													{
+														"name": "node_6946876",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_6946876",
+																"nuc mutations": "C21998A,T22020C",
+																"back-mutations": "",
+																"aa mutations": "S:Q146K,S:M153T",
+																"Spike mutations": "S:Q146K,S:M153T"
+															},
+															"mutations": {
+																"S": [ "Q146K", "M153T" ],
+																"nuc": [ "C21998A", "T22020C" ]
+															}
+														},
+														"children": [
+															{
+																"name": "Italy\/APU_UNIBA_APU-Ba1116\/2023|EPI_ISL_18210181|2023-08-23",
+																"node_attrs": {
+																	"div": 120,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Italy" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "XBB.1.9.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+																	}
+																}
+															},
+															{
+																"name": "Italy\/APU_UNIBA_APU-Ba1117\/2023|EPI_ISL_18210109|2023-08-23",
+																"node_attrs": {
+																	"div": 120,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "Italy" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "XBB.1.9.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 120,
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": { "value": "XBB.1.9.1" }
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 118,
+													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+													"pango_lineage_usher": { "value": "XBB.1.9.1" }
+												}
+											},
+											{
 												"name": "node_3615066",
 												"branch_attrs": {
 													"labels": {
@@ -1509,111 +1614,6 @@
 													"div": 118,
 													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
 													"pango_lineage_usher": { "value": "EG.5.2" }
-												}
-											},
-											{
-												"name": "node_6946875",
-												"branch_attrs": {
-													"labels": {
-														"id": "node_6946875",
-														"nuc mutations": "C17642T",
-														"back-mutations": "",
-														"aa mutations": "ORF1ab:A5793V"
-													},
-													"mutations": {
-														"ORF1ab": [ "A5793V" ],
-														"nuc": [ "C17642T" ]
-													}
-												},
-												"children": [
-													{
-														"name": "Italy\/APU_UNIBA_APU-Ba1121\/2023|EPI_ISL_18210080|2023-08-23",
-														"node_attrs": {
-															"div": 118,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "Italy" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "XBB.1.9.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
-															}
-														}
-													},
-													{
-														"name": "node_6946876",
-														"branch_attrs": {
-															"labels": {
-																"id": "node_6946876",
-																"nuc mutations": "T22020C",
-																"back-mutations": "",
-																"aa mutations": "S:M153T",
-																"Spike mutations": "S:M153T"
-															},
-															"mutations": {
-																"S": [ "M153T" ],
-																"nuc": [ "T22020C" ]
-															}
-														},
-														"children": [
-															{
-																"name": "Italy\/APU_UNIBA_APU-Ba1116\/2023|EPI_ISL_18210181|2023-08-23",
-																"node_attrs": {
-																	"div": 119,
-																	"userOrOld": { "value": "uploaded sample" },
-																	"Nextstrain_clade": { "value": "uploaded sample" },
-																	"GISAID_clade": { "value": "uploaded sample" },
-																	"pango_lineage": {
-																		"value": "uploaded sample",
-																		"url": "uploaded sample"
-																	},
-																	"Nextstrain_lineage": { "value": "uploaded sample" },
-																	"country": { "value": "Italy" },
-																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-																	"pango_lineage_usher": {
-																		"value": "XBB.1.9.1",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
-																	}
-																}
-															},
-															{
-																"name": "Italy\/APU_UNIBA_APU-Ba1117\/2023|EPI_ISL_18210109|2023-08-23",
-																"node_attrs": {
-																	"div": 119,
-																	"userOrOld": { "value": "uploaded sample" },
-																	"Nextstrain_clade": { "value": "uploaded sample" },
-																	"GISAID_clade": { "value": "uploaded sample" },
-																	"pango_lineage": {
-																		"value": "uploaded sample",
-																		"url": "uploaded sample"
-																	},
-																	"Nextstrain_lineage": { "value": "uploaded sample" },
-																	"country": { "value": "Italy" },
-																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-																	"pango_lineage_usher": {
-																		"value": "XBB.1.9.1",
-																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
-																	}
-																}
-															}
-														],
-														"node_attrs": {
-															"div": 119,
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": { "value": "XBB.1.9.1" }
-														}
-													}
-												],
-												"node_attrs": {
-													"div": 118,
-													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-													"pango_lineage_usher": { "value": "XBB.1.9.1" }
 												}
 											}
 										],
