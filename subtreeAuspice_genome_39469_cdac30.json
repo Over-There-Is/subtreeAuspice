@@ -7855,6 +7855,33 @@
 								},
 								"children": [
 									{
+										"name": "Australia\/NSW-ICPMR-49902\/2023|EPI_ISL_18461531|2023-10-11",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "P1054S", "G6829S" ],
+												"S": [ "S1021F" ],
+												"nuc": [ "C3425T", "G20749A", "C24624T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 98,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Australia" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.3",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+											}
+										}
+									},
+									{
 										"name": "Canada\/BC-BCCDC-661172\/2023|EPI_ISL_18453145|2023-10-14",
 										"branch_attrs": {
 											"mutations": {
