@@ -867,6 +867,69 @@
 														"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
 													}
 												}
+											},
+											{
+												"name": "node_11074482",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_11074482",
+														"nuc mutations": "A3550G,C15895T",
+														"back-mutations": ""
+													},
+													"mutations": { "nuc": [ "A3550G", "C15895T" ] }
+												},
+												"children": [
+													{
+														"name": "Peru\/LIM-INS-46662\/2023|EPI_ISL_18474441|2023-09-25",
+														"node_attrs": {
+															"div": 110,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Peru" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													},
+													{
+														"name": "Peru\/LIM-INS-46661\/2023|EPI_ISL_18474440|2023-09-25",
+														"node_attrs": {
+															"div": 110,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "Peru" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "EG.5.2",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=EG.5.2"
+															}
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 110,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": { "value": "uploaded sample" },
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+													"pango_lineage_usher": { "value": "EG.5.2" }
+												}
 											}
 										],
 										"node_attrs": {
