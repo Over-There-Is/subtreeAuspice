@@ -706,75 +706,47 @@
 						}
 					},
 					{
-						"name": "node_7127358",
-						"branch_attrs": {
-							"labels": {
-								"id": "node_7127358",
-								"nuc mutations": "G22942T",
-								"back-mutations": "G22942T",
-								"aa mutations": "S:K460N",
-								"Spike mutations": "S:K460N"
-							},
-							"mutations": {
-								"mutations": {
-									"S": [ "K460N" ],
-									"nuc": [ "G22942T" ]
-								}
-							}
-						},
-						"children": [
-							{
-								"name": "USA\/MN-HLX-VSX-A00242\/2023|EPI_ISL_18298722|2023-03-02",
-								"node_attrs": {
-									"div": 98,
-									"userOrOld": { "value": "uploaded sample" },
-									"Nextstrain_clade": { "value": "uploaded sample" },
-									"GISAID_clade": { "value": "uploaded sample" },
-									"pango_lineage": {
-										"value": "uploaded sample",
-										"url": "uploaded sample"
-									},
-									"Nextstrain_lineage": { "value": "uploaded sample" },
-									"country": { "value": "USA" },
-									"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-									"pango_lineage_usher": {
-										"value": "XBB.1.5",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
-									}
-								}
-							},
-							{
-								"name": "USA\/MN-CDC-VSX-A00230\/2023|EPI_ISL_17240790|2023-03-02",
-								"node_attrs": {
-									"div": 98,
-									"userOrOld": { "value": "uploaded sample" },
-									"Nextstrain_clade": { "value": "uploaded sample" },
-									"GISAID_clade": { "value": "uploaded sample" },
-									"pango_lineage": {
-										"value": "uploaded sample",
-										"url": "uploaded sample"
-									},
-									"Nextstrain_lineage": { "value": "uploaded sample" },
-									"country": { "value": "USA" },
-									"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-									"pango_lineage_usher": {
-										"value": "XBB.1.5",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
-									},
-									"subtree": {
-										"value": "view subtree 6",
-										"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice6_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
-									}
-								}
-							}
-						],
+						"name": "USA\/MN-HLX-VSX-A00242\/2023|EPI_ISL_18298722|2023-03-02",
 						"node_attrs": {
-							"div": 98,
-							"userOrOld": { "value": "GISAID and\/or public" },
-							"Nextstrain_clade": { "value": "23A" },
-							"pango_lineage": { "value": "XBB.1.5" },
+							"div": 97,
+							"userOrOld": { "value": "uploaded sample" },
+							"Nextstrain_clade": { "value": "uploaded sample" },
+							"GISAID_clade": { "value": "uploaded sample" },
+							"pango_lineage": {
+								"value": "uploaded sample",
+								"url": "uploaded sample"
+							},
+							"Nextstrain_lineage": { "value": "uploaded sample" },
+							"country": { "value": "USA" },
 							"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-							"pango_lineage_usher": { "value": "XBB.1.5" }
+							"pango_lineage_usher": {
+								"value": "XBB.1.5",
+								"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+							}
+						}
+					},
+					{
+						"name": "USA\/MN-CDC-VSX-A00230\/2023|EPI_ISL_17240790|2023-03-02",
+						"node_attrs": {
+							"div": 97,
+							"userOrOld": { "value": "uploaded sample" },
+							"Nextstrain_clade": { "value": "uploaded sample" },
+							"GISAID_clade": { "value": "uploaded sample" },
+							"pango_lineage": {
+								"value": "uploaded sample",
+								"url": "uploaded sample"
+							},
+							"Nextstrain_lineage": { "value": "uploaded sample" },
+							"country": { "value": "USA" },
+							"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+							"pango_lineage_usher": {
+								"value": "XBB.1.5",
+								"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+							},
+							"subtree": {
+								"value": "view subtree 6",
+								"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice6_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
+							}
 						}
 					},
 					{
@@ -3099,7 +3071,7 @@
 															"userOrOld": { "value": "GISAID and\/or public" },
 															"Nextstrain_clade": { "value": "23A" },
 															"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-															"pango_lineage_usher": { "value": "XBB.1.5_17124" }
+															"pango_lineage_usher": { "value": "XBB.1.5" }
 														}
 													},
 													{
@@ -3440,13 +3412,13 @@
 														"name": "USA\/CA-HLX-STM-YFS8Z7P4P\/2023|EPI_ISL_18069682|2023-07-11",
 														"branch_attrs": {
 															"mutations": {
-																"S": [ "K460N", "V1122A" ],
+																"S": [ "V1122A" ],
 																"M": [ "H125N" ],
-																"nuc": [ "C18267T", "G22942T", "C23506T", "T24927C", "C26895A", "G28001T" ]
+																"nuc": [ "C18267T", "C23506T", "T24927C", "C26895A", "G28001T" ]
 															}
 														},
 														"node_attrs": {
-															"div": 108,
+															"div": 107,
 															"userOrOld": { "value": "uploaded sample" },
 															"Nextstrain_clade": { "value": "uploaded sample" },
 															"GISAID_clade": { "value": "uploaded sample" },
