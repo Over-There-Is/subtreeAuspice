@@ -1726,6 +1726,32 @@
 												},
 												"children": [
 													{
+														"name": "France\/ARA-HCL723001486201\/2023|EPI_ISL_18510031|2023-10-30",
+														"branch_attrs": {
+															"mutations": {
+																"S": [ "T572I" ],
+																"nuc": [ "C23277T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 120,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "France" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "XBB.1.9.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.9.1"
+															}
+														}
+													},
+													{
 														"name": "France\/ARA-HCL723001400401\/2023|EPI_ISL_18440980|2023-10-09",
 														"branch_attrs": {
 															"mutations": {
