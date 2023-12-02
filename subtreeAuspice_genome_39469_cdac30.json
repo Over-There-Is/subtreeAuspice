@@ -15333,6 +15333,32 @@
 														}
 													},
 													{
+														"name": "South_Korea\/KDCA273842\/2023|EPI_ISL_18564399|2023-10-30",
+														"branch_attrs": {
+															"mutations": {
+																"ORF1ab": [ "Q998H", "A2080T" ],
+																"nuc": [ "G3259T", "G6503A", "C6628T" ]
+															}
+														},
+														"node_attrs": {
+															"div": 104,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "South Korea" },
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": {
+																"value": "FL.2.3",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+															}
+														}
+													},
+													{
 														"name": "South_Korea\/KDCA261207\/2023|EPI_ISL_18239231|2023-08-15",
 														"node_attrs": {
 															"div": 101,
@@ -16758,6 +16784,32 @@
 																},
 																"node_attrs": {
 																	"div": 104,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "USA" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.2.3",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.3"
+																	}
+																}
+															},
+															{
+																"name": "USA\/CA-CDPH-1002014696\/2023|EPI_ISL_18555677|2023-08-03",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "L3919F" ],
+																		"nuc": [ "C12020T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 100,
 																	"userOrOld": { "value": "uploaded sample" },
 																	"Nextstrain_clade": { "value": "uploaded sample" },
 																	"GISAID_clade": { "value": "uploaded sample" },
