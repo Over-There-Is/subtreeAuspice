@@ -319,31 +319,81 @@
 						},
 						"children": [
 							{
-								"name": "Taiwan\/CDC-F89057\/2023|EPI_ISL_18458026|2023-10-02",
+								"name": "node_3504839",
 								"branch_attrs": {
+									"labels": {
+										"id": "node_3504839",
+										"nuc mutations": "T868A,C13119T,C15240T,G22104T,T28251C",
+										"back-mutations": "",
+										"aa mutations": "ORF1ab:A4285V,S:G181V,ORF8:F120L",
+										"Spike mutations": "S:G181V"
+									},
 									"mutations": {
-										"ORF1ab": [ "A4285V", "A6802V" ],
+										"ORF1ab": [ "A4285V" ],
 										"S": [ "G181V" ],
 										"ORF8": [ "F120L" ],
-										"nuc": [ "T868A", "C13119T", "C15240T", "C20669T", "G22104T", "T28251C", "G29688T" ]
+										"nuc": [ "T868A", "C13119T", "C15240T", "G22104T", "T28251C" ]
 									}
 								},
-								"node_attrs": {
-									"div": 124,
-									"userOrOld": { "value": "uploaded sample" },
-									"Nextstrain_clade": { "value": "uploaded sample" },
-									"GISAID_clade": { "value": "uploaded sample" },
-									"pango_lineage": {
-										"value": "uploaded sample",
-										"url": "uploaded sample"
+								"children": [
+									{
+										"name": "Taiwan\/CDC-F89057\/2023|EPI_ISL_18458026|2023-10-02",
+										"branch_attrs": {
+											"mutations": {
+												"ORF1ab": [ "A6802V" ],
+												"S": [ "G181V" ],
+												"nuc": [ "C20669T", "G29688T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 124,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Taiwan" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.4",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.4"
+											}
+										}
 									},
-									"Nextstrain_lineage": { "value": "uploaded sample" },
-									"country": { "value": "Taiwan" },
-									"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-									"pango_lineage_usher": {
-										"value": "FL.2.4",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.4"
+									{
+										"name": "hCoV-19\/Taiwan\/CDC-F89370\/2023|EPI_ISL_18536535|2023-10-20",
+										"branch_attrs": {
+											"mutations": {
+												"ORF3a": [ "S40L" ],
+												"nuc": [ "C10450T", "C25511T" ]
+											}
+										},
+										"node_attrs": {
+											"div": 124,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "Taiwan" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.4",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.4"
+											}
+										}
 									}
+								],
+								"node_attrs": {
+									"div": 122,
+									"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+									"pango_lineage_usher": { "value": "FL.2.4" }
 								}
 							},
 							{
