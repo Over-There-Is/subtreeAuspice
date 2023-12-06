@@ -10782,50 +10782,23 @@
 												}
 											},
 											{
-												"name": "node_10885688",
+												"name": "node_11169639",
 												"branch_attrs": {
 													"labels": {
-														"id": "node_10885688",
-														"nuc mutations": "C6401T,T27346C",
+														"id": "node_11169639",
+														"nuc mutations": "C6401T",
 														"back-mutations": "",
-														"aa mutations": "ORF1ab:P2046S,ORF6:Y49H"
+														"aa mutations": "ORF1ab:P2046S"
 													},
 													"mutations": {
 														"ORF1ab": [ "P2046S" ],
-														"ORF6": [ "Y49H" ],
-														"nuc": [ "C6401T", "T27346C" ]
+														"nuc": [ "C6401T" ]
 													}
 												},
 												"children": [
 													{
-														"name": "South_Korea\/KDCA262820\/2023|EPI_ISL_18272318|2023-08-25",
-														"branch_attrs": {
-															"mutations": {
-																"ORF1ab": [ "D930Y", "P4261L" ],
-																"S": [ "V193L" ],
-																"nuc": [ "G3053T", "C13047T", "G22139T", "C24082T" ]
-															}
-														},
-														"node_attrs": {
-															"div": 103,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "South Korea" },
-															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
-															"pango_lineage_usher": {
-																"value": "FL.21.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
-															}
-														}
-													},
-													{
-														"name": "South_Korea\/KDCA256911\/2023|EPI_ISL_18117562|2023-07-25",
+														"name": "South_Korea\/KHIDI-HU-02\/2023|EPI_ISL_18585010|2023-08-07",
+														"branch_attrs": { "mutations": { "nuc": [ "C26326T" ] } },
 														"node_attrs": {
 															"div": 99,
 															"userOrOld": { "value": "uploaded sample" },
@@ -10843,10 +10816,79 @@
 																"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
 															}
 														}
+													},
+													{
+														"name": "node_3374701",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_3374701",
+																"nuc mutations": "T27346C",
+																"back-mutations": "",
+																"aa mutations": "ORF6:Y49H"
+															},
+															"mutations": {
+																"ORF6": [ "Y49H" ],
+																"nuc": [ "T27346C" ]
+															}
+														},
+														"children": [
+															{
+																"name": "South_Korea\/KDCA262820\/2023|EPI_ISL_18272318|2023-08-25",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "D930Y", "P4261L" ],
+																		"S": [ "V193L" ],
+																		"nuc": [ "G3053T", "C13047T", "G22139T", "C24082T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 103,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "South Korea" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																	}
+																}
+															},
+															{
+																"name": "South_Korea\/KDCA256911\/2023|EPI_ISL_18117562|2023-07-25",
+																"node_attrs": {
+																	"div": 99,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "South Korea" },
+																	"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+																	"pango_lineage_usher": {
+																		"value": "FL.21.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.21.1"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 99,
+															"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+															"pango_lineage_usher": { "value": "FL.21.1" }
+														}
 													}
 												],
 												"node_attrs": {
-													"div": 99,
+													"div": 98,
 													"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
 													"pango_lineage_usher": { "value": "FL.21.1" }
 												}
