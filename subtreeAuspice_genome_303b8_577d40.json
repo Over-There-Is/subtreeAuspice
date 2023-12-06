@@ -257,8 +257,8 @@
 									"country": { "value": "China" },
 									"Nextstrain_clade_usher": { "value": "22F (XBB)" },
 									"pango_lineage_usher": {
-										"value": "XBB.1.19.1",
-										"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.19.1"
+										"value": "GW.1",
+										"url": "https:\/\/outbreak.info\/situation-reports?pango=gW.1"
 									},
 									"subtree": {
 										"value": "view subtree 16",
@@ -3414,32 +3414,6 @@
 														}
 													},
 													{
-														"name": "France\/IDF-IPP20449\/2023|EPI_ISL_18327379|2023-09-18",
-														"branch_attrs": {
-															"mutations": {
-																"ORF1ab": [ "A4946V" ],
-																"nuc": [ "G553A", "C2146T", "C15101T", "G16020A" ]
-															}
-														},
-														"node_attrs": {
-															"div": 104,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "France" },
-															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
-															"pango_lineage_usher": {
-																"value": "GW.1.1",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
-															}
-														}
-													},
-													{
 														"name": "USA\/HI-TAMC_2910\/2023|EPI_ISL_18346034|2023-09-06",
 														"branch_attrs": {
 															"mutations": {
@@ -3577,6 +3551,69 @@
 																"value": "GW.1.1",
 																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
 															}
+														}
+													},
+													{
+														"name": "node_11169639",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_11169639",
+																"nuc mutations": "G553A,C2146T,C15101T,G16020A",
+																"back-mutations": "",
+																"aa mutations": "ORF1ab:A4946V"
+															},
+															"mutations": {
+																"ORF1ab": [ "A4946V" ],
+																"nuc": [ "G553A", "C2146T", "C15101T", "G16020A" ]
+															}
+														},
+														"children": [
+															{
+																"name": "France\/BRE-ChuBr-2311526475\/2023|EPI_ISL_18586225|2023-11-14",
+																"branch_attrs": { "mutations": { "nuc": [ "C5239T", "A9019G" ] } },
+																"node_attrs": {
+																	"div": 106,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "France" },
+																	"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																	}
+																}
+															},
+															{
+																"name": "France\/IDF-IPP20449\/2023|EPI_ISL_18327379|2023-09-18",
+																"node_attrs": {
+																	"div": 104,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "France" },
+																	"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+																	"pango_lineage_usher": {
+																		"value": "GW.1.1",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1.1"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 104,
+															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+															"pango_lineage_usher": { "value": "GW.1.1" }
 														}
 													},
 													{
@@ -8750,7 +8787,7 @@
 							"pango_lineage": { "value": "uploaded sample" },
 							"Nextstrain_lineage": { "value": "uploaded sample" },
 							"Nextstrain_clade_usher": { "value": "22F (XBB)" },
-							"pango_lineage_usher": { "value": "XBB.1.19.1" }
+							"pango_lineage_usher": { "value": "GW.1" }
 						}
 					}
 				],
