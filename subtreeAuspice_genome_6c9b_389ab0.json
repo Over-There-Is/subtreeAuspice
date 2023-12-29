@@ -1006,6 +1006,32 @@
 										},
 										"children": [
 											{
+												"name": "Singapore\/R92MR263\/2023|EPI_ISL_18700645|2023-12-12",
+												"branch_attrs": {
+													"mutations": {
+														"N": [ "A211S" ],
+														"nuc": [ "G11383A", "T16491C", "G18318T", "T23500C", "G28904T" ]
+													}
+												},
+												"node_attrs": {
+													"div": 124,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "Singapore" },
+													"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
+													"pango_lineage_usher": {
+														"value": "JN.3",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=JN.3"
+													}
+												}
+											},
+											{
 												"name": "Germany\/BY-MVP-000022546\/2023|EPI_ISL_18632934|2023-11-16",
 												"branch_attrs": {
 													"mutations": {

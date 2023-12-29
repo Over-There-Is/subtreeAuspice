@@ -359,6 +359,27 @@
 								},
 								"children": [
 									{
+										"name": "South_Korea\/KDCA277520\/2023|EPI_ISL_18686993|2023-11-15",
+										"branch_attrs": { "mutations": { "nuc": [ "G10870T", "C26753T" ] } },
+										"node_attrs": {
+											"div": 124,
+											"userOrOld": { "value": "uploaded sample" },
+											"Nextstrain_clade": { "value": "uploaded sample" },
+											"GISAID_clade": { "value": "uploaded sample" },
+											"pango_lineage": {
+												"value": "uploaded sample",
+												"url": "uploaded sample"
+											},
+											"Nextstrain_lineage": { "value": "uploaded sample" },
+											"country": { "value": "South Korea" },
+											"Nextstrain_clade_usher": { "value": "23D (XBB.1.9)" },
+											"pango_lineage_usher": {
+												"value": "FL.2.4",
+												"url": "https:\/\/outbreak.info\/situation-reports?pango=FL.2.4"
+											}
+										}
+									},
+									{
 										"name": "Taiwan\/CDC-F89057\/2023|EPI_ISL_18458026|2023-10-02",
 										"branch_attrs": {
 											"mutations": {
