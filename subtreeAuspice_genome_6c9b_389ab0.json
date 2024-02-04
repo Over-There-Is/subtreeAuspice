@@ -2780,27 +2780,6 @@
 												}
 											},
 											{
-												"name": "England\/CLIMB-CM7YGDYG\/2024|EPI_ISL_18854688|2024-01-19",
-												"branch_attrs": { "mutations": { "nuc": [ "C21812T" ] } },
-												"node_attrs": {
-													"div": 139,
-													"userOrOld": { "value": "uploaded sample" },
-													"Nextstrain_clade": { "value": "uploaded sample" },
-													"GISAID_clade": { "value": "uploaded sample" },
-													"pango_lineage": {
-														"value": "uploaded sample",
-														"url": "uploaded sample"
-													},
-													"Nextstrain_lineage": { "value": "uploaded sample" },
-													"country": { "value": "United Kingdom" },
-													"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
-													"pango_lineage_usher": {
-														"value": "XDS",
-														"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
-													}
-												}
-											},
-											{
 												"name": "Austria\/AGES-AZ-1679765\/2024|EPI_ISL_18789987|2024-01-09",
 												"branch_attrs": {
 													"mutations": {
@@ -2871,6 +2850,73 @@
 														"value": "XDS",
 														"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
 													}
+												}
+											},
+											{
+												"name": "node_11232232",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_11232232",
+														"nuc mutations": "C15656T",
+														"back-mutations": "",
+														"aa mutations": "ORF1ab:T5131I"
+													},
+													"mutations": {
+														"ORF1ab": [ "T5131I" ],
+														"nuc": [ "C15656T" ]
+													}
+												},
+												"children": [
+													{
+														"name": "England\/CLIMB-CM7YF56A\/2024|EPI_ISL_18831702|2024-01-17",
+														"node_attrs": {
+															"div": 139,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "United Kingdom" },
+															"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
+															"pango_lineage_usher": {
+																"value": "XDS",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
+															}
+														}
+													},
+													{
+														"name": "England\/CLIMB-CM7Y8EWA\/2024|EPI_ISL_18831689|2024-01-17",
+														"node_attrs": {
+															"div": 139,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "United Kingdom" },
+															"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
+															"pango_lineage_usher": {
+																"value": "XDS",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
+															}
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 139,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": { "value": "uploaded sample" },
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
+													"pango_lineage_usher": { "value": "XDS" }
 												}
 											},
 											{
@@ -2969,73 +3015,6 @@
 												}
 											},
 											{
-												"name": "node_11232232",
-												"branch_attrs": {
-													"labels": {
-														"id": "node_11232232",
-														"nuc mutations": "C15656T",
-														"back-mutations": "",
-														"aa mutations": "ORF1ab:T5131I"
-													},
-													"mutations": {
-														"ORF1ab": [ "T5131I" ],
-														"nuc": [ "C15656T" ]
-													}
-												},
-												"children": [
-													{
-														"name": "England\/CLIMB-CM7YF56A\/2024|EPI_ISL_18831702|2024-01-17",
-														"node_attrs": {
-															"div": 139,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "United Kingdom" },
-															"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
-															"pango_lineage_usher": {
-																"value": "XDS",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
-															}
-														}
-													},
-													{
-														"name": "England\/CLIMB-CM7Y8EWA\/2024|EPI_ISL_18831689|2024-01-17",
-														"node_attrs": {
-															"div": 139,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "United Kingdom" },
-															"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
-															"pango_lineage_usher": {
-																"value": "XDS",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
-															}
-														}
-													}
-												],
-												"node_attrs": {
-													"div": 139,
-													"userOrOld": { "value": "uploaded sample" },
-													"Nextstrain_clade": { "value": "uploaded sample" },
-													"GISAID_clade": { "value": "uploaded sample" },
-													"pango_lineage": { "value": "uploaded sample" },
-													"Nextstrain_lineage": { "value": "uploaded sample" },
-													"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
-													"pango_lineage_usher": { "value": "XDS" }
-												}
-											},
-											{
 												"name": "node_6875719",
 												"branch_attrs": {
 													"labels": {
@@ -3046,6 +3025,26 @@
 													"mutations": { "nuc": [ "C21812T" ] }
 												},
 												"children": [
+													{
+														"name": "England\/CLIMB-CM7YGDYG\/2024|EPI_ISL_18854688|2024-01-19",
+														"node_attrs": {
+															"div": 139,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "United Kingdom" },
+															"Nextstrain_clade_usher": { "value": "23I (BA.2.86)" },
+															"pango_lineage_usher": {
+																"value": "XDS",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=XDS"
+															}
+														}
+													},
 													{
 														"name": "England\/CLIMB-CM7YG5XJ\/2024|EPI_ISL_18831855|2024-01-19",
 														"node_attrs": {
