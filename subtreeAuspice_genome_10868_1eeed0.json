@@ -2620,6 +2620,26 @@
 										},
 										"children": [
 											{
+												"name": "USA\/NV-NSPHL-23-S003938\/2023|EPI_ISL_18906509|2023-05-22",
+												"node_attrs": {
+													"div": 102,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "USA" },
+													"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+													"pango_lineage_usher": {
+														"value": "XBB.1.5",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+													}
+												}
+											},
+											{
 												"name": "Mexico\/ZAC_IBT_IMSS_11359\/2023|EPI_ISL_18589034|2023-06-12",
 												"branch_attrs": {
 													"mutations": {
@@ -2675,7 +2695,7 @@
 										"node_attrs": {
 											"div": 102,
 											"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-											"pango_lineage_usher": { "value": "XBB.1.5_17124" }
+											"pango_lineage_usher": { "value": "XBB.1.5" }
 										}
 									},
 									{
@@ -3746,37 +3766,6 @@
 												},
 												"children": [
 													{
-														"name": "Hubei\/HCDC-EN1623\/2023|EPI_ISL_17714292|2023-05-11",
-														"branch_attrs": {
-															"mutations": {
-																"ORF1ab": [ "D4166Y" ],
-																"S": [ "N658D" ],
-																"nuc": [ "G12761T", "A23534G" ]
-															}
-														},
-														"node_attrs": {
-															"div": 104,
-															"userOrOld": { "value": "uploaded sample" },
-															"Nextstrain_clade": { "value": "uploaded sample" },
-															"GISAID_clade": { "value": "uploaded sample" },
-															"pango_lineage": {
-																"value": "uploaded sample",
-																"url": "uploaded sample"
-															},
-															"Nextstrain_lineage": { "value": "uploaded sample" },
-															"country": { "value": "China" },
-															"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-															"pango_lineage_usher": {
-																"value": "XBB.1.5",
-																"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
-															},
-															"subtree": {
-																"value": "view subtree 4",
-																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice4_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
-															}
-														}
-													},
-													{
 														"name": "Shanghai\/SCDC-HG-0529-1253\/2023|EPI_ISL_17795103|2023-05-25",
 														"branch_attrs": {
 															"mutations": {
@@ -4215,6 +4204,79 @@
 																"value": "view subtree 5",
 																"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice5_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
 															}
+														}
+													},
+													{
+														"name": "node_11282481",
+														"branch_attrs": {
+															"labels": {
+																"id": "node_11282481",
+																"nuc mutations": "A23534G",
+																"back-mutations": "",
+																"aa mutations": "S:N658D",
+																"Spike mutations": "S:N658D"
+															},
+															"mutations": {
+																"S": [ "N658D" ],
+																"nuc": [ "A23534G" ]
+															}
+														},
+														"children": [
+															{
+																"name": "USA\/NV-NSPHL-23-S003953\/2023|EPI_ISL_18906519|2023-05-27",
+																"node_attrs": {
+																	"div": 103,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "USA" },
+																	"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+																	"pango_lineage_usher": {
+																		"value": "XBB.1.5",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+																	}
+																}
+															},
+															{
+																"name": "Hubei\/HCDC-EN1623\/2023|EPI_ISL_17714292|2023-05-11",
+																"branch_attrs": {
+																	"mutations": {
+																		"ORF1ab": [ "D4166Y" ],
+																		"nuc": [ "G12761T" ]
+																	}
+																},
+																"node_attrs": {
+																	"div": 104,
+																	"userOrOld": { "value": "uploaded sample" },
+																	"Nextstrain_clade": { "value": "uploaded sample" },
+																	"GISAID_clade": { "value": "uploaded sample" },
+																	"pango_lineage": {
+																		"value": "uploaded sample",
+																		"url": "uploaded sample"
+																	},
+																	"Nextstrain_lineage": { "value": "uploaded sample" },
+																	"country": { "value": "China" },
+																	"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+																	"pango_lineage_usher": {
+																		"value": "XBB.1.5",
+																		"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+																	},
+																	"subtree": {
+																		"value": "view subtree 4",
+																		"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice4_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
+																	}
+																}
+															}
+														],
+														"node_attrs": {
+															"div": 103,
+															"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+															"pango_lineage_usher": { "value": "XBB.1.5" }
 														}
 													},
 													{
