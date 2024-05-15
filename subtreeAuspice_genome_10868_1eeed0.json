@@ -2500,36 +2500,6 @@
 										}
 									},
 									{
-										"name": "Canada\/SK-RRPL-623051\/2023|EPI_ISL_17635248|2023-04-20",
-										"branch_attrs": {
-											"mutations": {
-												"ORF1ab": [ "E1209D" ],
-												"nuc": [ "G3892T", "T4723C" ]
-											}
-										},
-										"node_attrs": {
-											"div": 102,
-											"userOrOld": { "value": "uploaded sample" },
-											"Nextstrain_clade": { "value": "uploaded sample" },
-											"GISAID_clade": { "value": "uploaded sample" },
-											"pango_lineage": {
-												"value": "uploaded sample",
-												"url": "uploaded sample"
-											},
-											"Nextstrain_lineage": { "value": "uploaded sample" },
-											"country": { "value": "Canada" },
-											"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
-											"pango_lineage_usher": {
-												"value": "XBB.1.5",
-												"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
-											},
-											"subtree": {
-												"value": "view subtree 3",
-												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
-											}
-										}
-									},
-									{
 										"name": "Canada\/ON-PHL-23-22227\/2023|EPI_ISL_17590587|2023-04-18",
 										"branch_attrs": { "mutations": { "nuc": [ "C1780T" ] } },
 										"node_attrs": {
@@ -2602,6 +2572,77 @@
 												"value": "view subtree 3",
 												"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
 											}
+										}
+									},
+									{
+										"name": "node_3988653",
+										"branch_attrs": {
+											"labels": {
+												"id": "node_3988653",
+												"nuc mutations": "G3892T,T4723C",
+												"back-mutations": "",
+												"aa mutations": "ORF1ab:E1209D"
+											},
+											"mutations": {
+												"ORF1ab": [ "E1209D" ],
+												"nuc": [ "G3892T", "T4723C" ]
+											}
+										},
+										"children": [
+											{
+												"name": "Canada\/SK-RRPL-623051\/2023|EPI_ISL_17635248|2023-04-20",
+												"node_attrs": {
+													"div": 102,
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "Canada" },
+													"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+													"pango_lineage_usher": {
+														"value": "XBB.1.5",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+													},
+													"subtree": {
+														"value": "view subtree 3",
+														"url": "https:\/\/nextstrain.org\/fetch\/genome.ucsc.edu\/cgi-bin\/..\/trash\/ct\/subtreeAuspice3_genome_10868_1eeed0.json?f_userOrOld=uploaded%20sample"
+													}
+												}
+											},
+											{
+												"name": "USA\/NY-NYCPHL-017057\/2023|EPI_ISL_19020834|2023-04-25",
+												"branch_attrs": {
+													"mutations": {
+														"ORF1ab": [ "P1609S", "S2535L", "L6117F" ],
+														"nuc": [ "C5090T", "C7869T", "G18615T" ]
+													}
+												},
+												"node_attrs": {
+													"userOrOld": { "value": "uploaded sample" },
+													"Nextstrain_clade": { "value": "uploaded sample" },
+													"GISAID_clade": { "value": "uploaded sample" },
+													"pango_lineage": {
+														"value": "uploaded sample",
+														"url": "uploaded sample"
+													},
+													"Nextstrain_lineage": { "value": "uploaded sample" },
+													"country": { "value": "USA" },
+													"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+													"pango_lineage_usher": {
+														"value": "XBB.1.5",
+														"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+													}
+												}
+											}
+										],
+										"node_attrs": {
+											"div": 102,
+											"pango_lineage_usher": { "value": "XBB.1.5_17124" },
+											"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" }
 										}
 									},
 									{
@@ -4755,6 +4796,26 @@
 																					},
 																					"Nextstrain_lineage": { "value": "uploaded sample" },
 																					"country": { "value": "China" },
+																					"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
+																					"pango_lineage_usher": {
+																						"value": "XBB.1.5",
+																						"url": "https:\/\/outbreak.info\/situation-reports?pango=XBB.1.5"
+																					}
+																				}
+																			},
+																			{
+																				"name": "Hong_Kong\/HKU-240503-017\/2023|EPI_ISL_19093455|2023-07-09",
+																				"node_attrs": {
+																					"div": 106,
+																					"userOrOld": { "value": "uploaded sample" },
+																					"Nextstrain_clade": { "value": "uploaded sample" },
+																					"GISAID_clade": { "value": "uploaded sample" },
+																					"pango_lineage": {
+																						"value": "uploaded sample",
+																						"url": "uploaded sample"
+																					},
+																					"Nextstrain_lineage": { "value": "uploaded sample" },
+																					"country": { "value": "Hong Kong" },
 																					"Nextstrain_clade_usher": { "value": "23A (XBB.1.5)" },
 																					"pango_lineage_usher": {
 																						"value": "XBB.1.5",

@@ -5269,11 +5269,79 @@
 												}
 											},
 											{
+												"name": "node_3174826",
+												"branch_attrs": {
+													"labels": {
+														"id": "node_3174826",
+														"nuc mutations": "C3903T,A10518G",
+														"back-mutations": "",
+														"aa mutations": "ORF1ab:P1213L,ORF1ab:D3418G"
+													},
+													"mutations": {
+														"ORF1ab": [ "P1213L", "D3418G" ],
+														"nuc": [ "C3903T", "A10518G" ]
+													}
+												},
+												"children": [
+													{
+														"name": "Beijing\/NVSI-20230026\/2023|EPI_ISL_19102252|2023-08-17",
+														"node_attrs": {
+															"div": 101,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "China" },
+															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+															"pango_lineage_usher": {
+																"value": "GW.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+															}
+														}
+													},
+													{
+														"name": "Beijing\/NVSI-20230021\/2023|EPI_ISL_19102251|2023-04-27",
+														"node_attrs": {
+															"div": 101,
+															"userOrOld": { "value": "uploaded sample" },
+															"Nextstrain_clade": { "value": "uploaded sample" },
+															"GISAID_clade": { "value": "uploaded sample" },
+															"pango_lineage": {
+																"value": "uploaded sample",
+																"url": "uploaded sample"
+															},
+															"Nextstrain_lineage": { "value": "uploaded sample" },
+															"country": { "value": "China" },
+															"Nextstrain_clade_usher": { "value": "22F (XBB)" },
+															"pango_lineage_usher": {
+																"value": "GW.1",
+																"url": "https:\/\/outbreak.info\/situation-reports?pango=GW.1"
+															}
+														}
+													}
+												],
+												"node_attrs": {
+													"div": 101,
+													"userOrOld": { "value": "GISAID and\/or public" },
+													"pango_lineage": { "value": "GW.1" },
+													"Nextstrain_clade": { "value": "22F (XBB)" },
+													"pango_lineage_usher": { "value": "GW.1" },
+													"Nextstrain_clade_usher": { "value": "22F (XBB)" }
+												}
+											},
+											{
 												"name": "node_6551097",
 												"branch_attrs": {
-													"mutations": {
-														"nuc": [ "C10030T" ]
-													}
+													"labels": {
+														"id": "node_3174826",
+														"nuc mutations": "C10030T",
+														"back-mutations": ""
+													},
+													"mutations": { "nuc": [ "C10030T" ] }
 												},
 												"children": [
 													{
